@@ -3,7 +3,7 @@ name: Auto Crawl & Clean Data
 on:
   # Chạy hàng ngày lúc 1:00 AM (UTC); bạn có thể điều chỉnh cron tuỳ ý
   schedule:
-    - cron:  '20 9 * * *'
+    - cron:  '0 18 * * *'
 
 
 jobs:
