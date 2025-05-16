@@ -2,7 +2,7 @@ name: Auto Crawl & Clean Data
 
 on:
   schedule:
-    - cron:  '0 11 * * *'
+    - cron:  '20 12 * * *'
   workflow_dispatch:
 
 jobs:
