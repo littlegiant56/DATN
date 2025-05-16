@@ -40,6 +40,7 @@ jobs:
 
       - name: Commit _jobs.csv
         run: |
+          mv *_jobs.csv Rawdata/Jobs
           git add Rawdata/Jobs/*
           git commit -m "Auto: add jobs CSV" || echo "No new jobs to commit"
           git push origin main
@@ -49,6 +50,7 @@ jobs:
 
       - name: Commit _jobs_cleaned.csv
         run: |
+          mv *_jobs_cleaned.csv Cleandata
           git add Cleandata/*
           git commit -m "Auto: add cleaned data CSV" || echo "No new cleaned data to commit"
           git push origin main
