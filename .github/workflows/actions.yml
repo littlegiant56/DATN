@@ -3,9 +3,8 @@ name: Auto Crawl & Clean Data
 on:
   # Chạy hàng ngày lúc 1:00 AM (UTC); bạn có thể điều chỉnh cron tuỳ ý
   schedule:
-    - cron:  '20 9 * * *'
-  # Cho phép bạn trigger thủ công từ tab “Actions”
-  workflow_dispatch:
+    - cron:  '0 18 * * *'
+
 
 jobs:
   crawl-and-commit:
