@@ -30,6 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          mv *_links.csv Rawdata/Links
           git add Rawdata/Links/*
           git commit -m "Auto: add links CSV" || echo "No new links to commit"
           git push origin main
