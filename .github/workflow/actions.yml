@@ -1,0 +1,55 @@
+name: Auto Crawl & Clean Data
+
+on:
+  # Chạy hàng ngày lúc 1:00 AM (UTC); bạn có thể điều chỉnh cron tuỳ ý
+  schedule:
+    - cron:  '15 9 * * *'
+  # Cho phép bạn trigger thủ công từ tab “Actions”
+  workflow_dispatch:
+
+jobs:
+  crawl-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+
+      - name: Crawl links
+        run: python BATCH/VNWscraping/Crawl_link.py
+
+      - name: Commit _links.csv
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *_links.csv
+          git commit -m "Auto: add links CSV" || echo "No new links to commit"
+          git push origin main
+
+      - name: Crawl jobs
+        run: python BATCH/VNWscraping/CrawlJob.py
+
+      - name: Commit _jobs.csv
+        run: |
+          git add *_jobs.csv
+          git commit -m "Auto: add jobs CSV" || echo "No new jobs to commit"
+          git push origin main
+
+      - name: Clean data
+        run: python BATCH/VNWscraping/Clean_data.py
+
+      - name: Commit _jobs_cleaned.csv
+        run: |
+          git add *_jobs_cleaned.csv
+          git commit -m "Auto: add cleaned data CSV" || echo "No new cleaned data to commit"
+          git push origin main
