@@ -4,8 +4,7 @@ on:
   # Chạy hàng ngày lúc 1:00 AM (UTC); bạn có thể điều chỉnh cron tuỳ ý
   schedule:
     - cron:  '20 9 * * *'
-  # Cho phép bạn trigger thủ công từ tab “Actions”
-  workflow_dispatch:
+
 
 jobs:
   crawl-and-commit:
