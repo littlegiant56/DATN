@@ -60,7 +60,6 @@ def try_click(xpath):
         if buttons:
             driver.execute_script("arguments[0].scrollIntoView(true);", buttons[0])
             buttons[0].click()
-            print(f"✅ Đã bấm nút: {xpath}")
         else:
             print(f"⚠️ Không tìm thấy nút: {xpath}")
     except Exception as e:
