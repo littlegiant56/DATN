@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
-yesterday = datetime.now() - timedelta(1)
+yesterday = datetime.now() #- timedelta(1)
 input_csv_filename = "Rawdata/Jobs/" + yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
 output_csv_filename = yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.csv"
 df = pd.read_csv(input_csv_filename)
