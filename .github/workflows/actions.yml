@@ -50,7 +50,17 @@ jobs:
 
       - name: Commit _jobs_cleaned.csv
         run: |
-          mv *_jobs_cleaned.csv Cleandata
-          git add Cleandata/*
+          mv *_jobs_cleaned.csv Cleandata/CSV
+          git add Cleandata/CSV/*
+          git commit -m "Auto: add cleaned data CSV" || echo "No new cleaned data to commit"
+          git push origin main
+
+      - name: Transfer to JSON
+        run: python BATCH/VNWscraping/Json_transfer.py
+
+      - name: Commit _jobs_cleaned.json
+        run: |
+          mv *_jobs_cleaned.json Cleandata/JSON
+          git add Cleandata/JSON/*
           git commit -m "Auto: add cleaned data CSV" || echo "No new cleaned data to commit"
           git push origin main
