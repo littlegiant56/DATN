@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime, timedelta
 
 # Tính toán ngày hôm qua
-yesterday = datetime.now() #- timedelta(1)
+yesterday = datetime.now() - timedelta(1)
 target_date = yesterday.strftime("%d/%m/%Y")  # Định dạng ngày theo "Ngày/Tháng/Năm"
 
 # Tạo tên file CSV với định dạng "ngày/tháng/năm_links.csv"

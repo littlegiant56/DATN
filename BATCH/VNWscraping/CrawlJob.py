@@ -9,7 +9,7 @@ import time
 import os 
 from datetime import datetime, timedelta
 
-yesterday = datetime.now() #- timedelta(1)
+yesterday = datetime.now() - timedelta(1)
 
 input_csv_filename = "Rawdata/Links/" + yesterday.strftime("%d-%m-%Y") + "_links.csv"
 output_csv_filename = yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
