@@ -1,11 +1,12 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from Get_job import crawl_job_details_json, close_driver
 
 chrome_options = Options()
 
 # Bật chế độ headless nếu muốn (bỏ comment dòng dưới)
-# chrome_options.add_argument("--headless=new")
+chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--window-size=1920,1080")
 chrome_options.add_argument("--no-sandbox")
@@ -59,16 +60,22 @@ try:
             print(f"Tìm thấy {len(new_jobs)} job mới:")
             for job_link in new_jobs:
                 print(job_link)
+                json_str = crawl_job_details_json(job_link)
+                if json_str:
+                    print(json_str)
+                else:
+                    print(f"❌ Crawl chi tiết thất bại cho {job_link}")
         else:
             print("Không có job mới.")
 
         # Cập nhật crawled_jobs thành toàn bộ job hiện tại (xóa dữ liệu cũ)
         crawled_jobs = current_job_links
 
-        print("Chờ 3 giây trước khi kiểm tra lại...")
-        time.sleep(3)
+        print("Chờ 15 giây trước khi kiểm tra lại...")
+        time.sleep(15)
 
 except KeyboardInterrupt:
     print("Dừng crawl theo yêu cầu người dùng.")
 finally:
     driver.quit()
+    close_driver()

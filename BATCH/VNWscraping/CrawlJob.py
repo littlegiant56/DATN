@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os 
 from datetime import datetime, timedelta
+from selenium.common.exceptions import StaleElementReferenceException
 
 yesterday = datetime.now() #- timedelta(1)
 
@@ -40,6 +41,11 @@ chrome_options.add_argument(
 
 # Khởi tạo trình duyệt với options đã cấu hình
 driver = webdriver.Chrome(options=chrome_options)
+driver.get('https://www.vietnamworks.com/')
+WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.TAG_NAME, 'body'))
+)
+time.sleep(2)
 
 def read_job_links_from_csv(filename=input_csv_filename):
     job_links = []
@@ -54,7 +60,42 @@ def read_job_links_from_csv(filename=input_csv_filename):
 job_links = read_job_links_from_csv(input_csv_filename)
 
 # Hàm crawl thông tin công việc
-def try_click(xpath):
+def try_click(keyword):
+    xpath = (
+        f"//button[contains(normalize-space(text()), '{keyword}')"
+        f" or contains(@aria-label, '{keyword}')]"
+    )
+    buttons = driver.find_elements(By.XPATH, xpath)
+    if not buttons:
+        print(f"⚠️ Không tìm thấy nút nào với từ khóa: '{keyword}'")
+        return
+    for idx, btn in enumerate(buttons, start=1):
+        try:
+            driver.execute_script(
+                "arguments[0].scrollIntoView({block: 'center'});", btn
+            )
+            time.sleep(0.2)
+            btn.click()
+            time.sleep(0.5)
+
+        except StaleElementReferenceException:
+            fresh = driver.find_elements(By.XPATH, xpath)
+            if idx-1 < len(fresh):
+                try:
+                    btn2 = fresh[idx-1]
+                    driver.execute_script(
+                        "arguments[0].scrollIntoView({block: 'center'});", btn2
+                    )
+                    time.sleep(0.2)
+                    btn2.click()
+                    print(f"🔄 Retry click nút {idx} thành công")
+                    time.sleep(1)
+                except Exception as e2:
+                    print(f"❌ Retry thất bại nút {idx}: {e2}")
+            else:
+                print(f"⚠️ Không tìm lại được nút {idx} để retry")
+        except Exception as e:
+            print(f"❌ Lỗi khi click nút thứ {idx} '{keyword}': {e}")
     try:
         buttons = driver.find_elements(By.XPATH, xpath)
         if buttons:
@@ -107,15 +148,16 @@ def crawl_job_details(url):
 
     try:
         # Bấm các nút nếu có
-        try_click("/html/body/main/div/main/div[2]/div/div/div/div[1]/div/div[1]/div/div[3]/button")
-        try_click("/html/body/main/div/main/div[2]/div/div/div/div[1]/div/div[1]/div/div[6]/div[2]/div/button")
-        time.sleep(1)
+        try_click("Xem đầy đủ mô tả công việc")
+        try_click("Xem thêm")
+        time.sleep(0.5)
 
         # Lấy thông tin chính
         title = driver.find_element(By.CSS_SELECTOR, "h1[name='title']").text
         company = driver.find_element(By.XPATH, "/html/body/main/div/main/div[2]/div/div/div/div[2]/div/div[1]/div[2]/a").text.strip()
         salary = driver.find_element(By.CSS_SELECTOR, "span[name='label']").text
         location = get_locations()
+        job_description = driver.find_element(By.XPATH, "/html/body/main/div/main/div[2]/div/div/div/div[1]/div/div[1]/div/div[3]/div/div/div[1]/div").text.strip()
         job_requirements = driver.find_element(By.XPATH, "/html/body/main/div/main/div[2]/div/div/div/div[1]/div/div[1]/div/div[3]/div/div/div[2]/div").text.strip()
 
         # Lấy thông tin thêm
@@ -137,7 +179,7 @@ def crawl_job_details(url):
         work_type = get_text_safe("//label[text()='LOẠI HÌNH LÀM VIỆC']")
         keyword = get_keywords()
 
-        return [title, company, salary, location, job_requirements, date_posted, industry, field,
+        return [title, company, salary, location, job_description, job_requirements, date_posted, industry, field,
                 experience, education, age, vacancy, work_time, level, skills, language, nationality, gender,
                 marital_status, work_date, work_type, keyword ]
     except Exception as e:
@@ -146,7 +188,7 @@ def crawl_job_details(url):
 
 # Lưu vào CSV
 def save_to_csv(data, filename=output_csv_filename):
-    headers = ["Title", "Company", "Salary", "Location", "Job Requirements", "Date Posted", "Industry", "Field",
+    headers = ["Title", "Company", "Salary", "Location", "Job Description", "Job Requirements", "Date Posted", "Industry", "Field",
                "Experience", "Education", "Age", "Vacancy", "Work Time", "Level", "Skills", "Language",
                "Nationality", "Gender", "Marital Status", "Work Date", "Work Type", "Keyword"]
     
