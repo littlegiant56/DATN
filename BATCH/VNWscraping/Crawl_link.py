@@ -14,7 +14,7 @@ yesterday = datetime.now() #- timedelta(1)
 target_date = yesterday.strftime("%d/%m/%Y")  # Định dạng ngày theo "Ngày/Tháng/Năm"
 
 # Tạo tên file CSV với định dạng "ngày/tháng/năm_links.csv"
-csv_filename = yesterday.strftime("%d-%m-%Y") + "_links.csv"
+csv_filename ="VNW_" + yesterday.strftime("%d-%m-%Y") + "_links.csv"
 
 # Tạo file CSV nếu chưa tồn tại và ghi header
 if not os.path.exists(csv_filename):

@@ -3,8 +3,8 @@ import json
 from datetime import datetime, timedelta
 
 yesterday = datetime.now() #- timedelta(1)
-input_csv_filename = "Cleandata/CSV/" + yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.csv"
-output_csv_filename = yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.json"
+input_csv_filename = "Cleandata/CSV/VNW_" + yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.csv"
+output_csv_filename = "VNW_" + yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.json"
 
 def convert_string_to_list(text):
     if pd.isna(text):

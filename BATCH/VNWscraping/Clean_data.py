@@ -3,8 +3,8 @@ import numpy as np
 from datetime import datetime, timedelta
 
 yesterday = datetime.now() #- timedelta(1)
-input_csv_filename = "Rawdata/Jobs/" + yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
-output_csv_filename = yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.csv"
+input_csv_filename = "Rawdata/Jobs/VNW_" + yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
+output_csv_filename ="VNW_" + yesterday.strftime("%d-%m-%Y") + "_jobs_cleaned.csv"
 df = pd.read_csv(input_csv_filename)
 
 df['Date Posted'] = pd.to_datetime(df['Date Posted'], format='%d/%m/%Y')

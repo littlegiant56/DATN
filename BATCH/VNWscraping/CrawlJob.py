@@ -12,8 +12,8 @@ from selenium.common.exceptions import StaleElementReferenceException
 
 yesterday = datetime.now() #- timedelta(1)
 
-input_csv_filename = "Rawdata/Links/" + yesterday.strftime("%d-%m-%Y") + "_links.csv"
-output_csv_filename = yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
+input_csv_filename = "Rawdata/Links/VNW_" + yesterday.strftime("%d-%m-%Y") + "_links.csv"
+output_csv_filename ="VNW_" + yesterday.strftime("%d-%m-%Y") + "_jobs.csv"
 
 # Cấu hình Chrome driver
 chrome_options = Options()
