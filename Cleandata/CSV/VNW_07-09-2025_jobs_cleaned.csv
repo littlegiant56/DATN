@@ -1,0 +1,225 @@
+Title,Company,Location,Job Description,Job Requirements,Date Posted,Industry,Field,Experience,Education,Vacancy,Work Time,Level,Skills,Language,Nationality,Gender,Work Date,Work Type,Keyword,Industry1,Age Min,Age Max,salary_avg_vnd,salary_mins,salary_maxs
+Data Scientist – Card Products & Loyalty,"Galaxy Digital Holdings Co., Ltd (GH)","Galaxy Innovation Hub (GIHUB), High tech park, Tan Phu Ward, District 9, HCMC, Galaxy Innovation Hub, Road D1, Hi-Tech Park, District 9, HCMC.","Job Overview
+We are looking for a Data Scientist with a strong background in predictive modeling, customer segmentation, and loyalty analytics related to card products (credit/debit). You will work closely with cross-functional teams to develop data-driven solutions that enhance card usage, optimize reward programs, and support strategic initiatives such as cross-sell, retention, and churn prevention.
+You will be responsible for building models, validating hypotheses, and turning complex data into actionable insights that drive business impact.
+Key Responsibilities
+• Develop and maintain machine learning models for use cases such as churn prediction, credit scoring, card usage forecasting, cross-sell propensity, and campaign personalization etc.
+• Conduct customer segmentation using clustering, RFM, and other statistical methods.
+• Analyze card transactions, spending patterns, and loyalty behavior to detect trends and risks.
+• Collaborate with Product, Marketing, and CRM teams to design and evaluate A/B tests and targeting strategies.
+• Build data pipelines and monitor model performance post-deployment.
+• Translate complex analytical results into business-friendly insights.
+• Contribute to model governance, data quality, and responsible AI practices.","• 3+ years of experience in Data Science, preferably in Banking, Fintech, or Loyalty.
+• Proficient in Python and SQL for data analysis and modeling.
+• Strong knowledge of machine learning libraries (e.g., scikit-learn, XGBoost, LightGBM).
+• Hands-on experience with data warehouses (Snowflake, Redshift, S3) and cloud platforms (AWS preferred).
+• Familiarity with lifecycle management of models in Amazon SageMaker.
+• Good understanding of customer lifecycle, card usage, and financial products.
+• Strong communication and storytelling skills, both written and verbal.
+Nice to Have
+• Experience integrating models into APIs or CEP platforms like MoEngage.
+• Knowledge of attribution modeling, uplift modeling, or time-series forecasting.
+• Familiarity with orchestration and automation tools (e.g., Airflow, MLflow).
+• Experience in mentoring junior team members or working within data squads.
+
+Benefits:
+- Competitive salary package (Base salary and performance bonuses).
+- Probation period salary is 100% of the official salary.
+- Comprehensive health and accident insurance.
+- 15 days of annual leave.
+- Provision of work equipment (Macbook/ Laptop, mouse, monitor, etc.).
+- A creative and modern working environment.",2025-09-07,Công Nghệ Thông Tin/Viễn Thông,Phần Mềm CNTT/Dịch vụ Phần mềm,3,Không giới hạn,1,08:30 - 17:30,Nhân viên,"Communication Skills, Customer Segmentation, Forecasting Model, Loyalty Analytics, Python And Sql",Bất kỳ,Không giới hạn,Bất kỳ,Thứ 2  đến Thứ 6,Toàn thời gian,"Công Nghệ Thông Tin/Viễn Thông, Data Engineer/Data Analyst/AI, Phần Mềm CNTT/Dịch vụ Phần mềm, Communication Skills, Customer Segmentation, Forecasting Model, Loyalty Analytics, Python And Sql, Galaxy Digital Holdings Co., Ltd (GH), Hồ Chí Minh",Data Engineer/Data Analyst/AI,27,60,34500000.0,23000000.0,46000000.0
+"Senior Data Analyst Banking, Card & Loyalty","Galaxy Digital Holdings Co., Ltd (GH)","Galaxy Innovation Hub (GIHUB), Đường D1, Tân Phú, Quận 9, Hồ Chí Minh, Việt Nam, Galaxy Innovation Hub, Road D1, Hi-Tech Park, District 9, HCMC.","We seek a Senior Data Analyst with substantial experience in banking, loyalty programs, and card usage analytics. You will take ownership of data analysis across loyalty and cross-sell initiatives, provide business insights, and collaborate with product, CRM, and marketing teams to drive impactful decisions through data.
+You will play a key role in uncovering customer behavior patterns, optimizing campaign performance, and identifying revenue growth opportunities across digital banking services.
+
+Key Responsibilities
+
+- Analyze card usage, transaction patterns, earn/burn behaviors, and loyalty program performance.
+- Define, calculate, and monitor key metrics: retention, engagement, CLTV, churn, and campaign performance.
+- Support and evaluate cross-sell, up-sell, and reactivation campaigns using quantitative methods.
+- Collaborate with cross-functional teams (Product, Marketing, CRM) to design and evaluate A/B tests, segment analysis, and personalized targeting.
+- Build and maintain BI dashboards and self-service tools for stakeholders.
+- Ensure data consistency, availability, and business logic alignment across analytics assets.
+- Mentor junior analysts (if any) and contribute to best practices in data analysis.","- 3+ years of experience in Data Analytics, preferably in Banking, Loyalty, or Fintech.
+- Strong SQL skills and experience working with modern data warehouses (e.g., Snowflake, S3, Redshift).
+- Proven experience working with BI tools such as Metabase, Power BI
+- Deep understanding of customer behavior metrics and analytics frameworks.
+- Strong data visualization and storytelling skills.
+- Excellent communication skills – able to work with both technical and non-technical stakeholders.
+- Business acumen in card/lending products, customer lifecycle, and digital banking journeys.
+
+Nice to Have
+- Hands-on experience with Python or R for data analysis or automation.
+- Familiarity with CEP platforms (e.g., Moengage), CDPs, or marketing automation tools.
+- Experience in campaign attribution modeling, uplift modeling, or predictive segmentation.
+- Leadership or mentoring experience is a plus.
+
+Benefit
+- Data-first culture with support from Product and Engineering teams.
+- Access to rich datasets across banking and loyalty platforms.
+- Flexible working environment and learning opportunities.
+- Competitive salary package (Base salary and performance bonuses).
+- Probation period salary is 100% of the official salary.
+- Comprehensive health and accident insurance.
+- 15 days of annual leave.
+- Provision of work equipment (Macbook/ Laptop, mouse, monitor, etc.).
+- A creative and modern working environment.",2025-09-07,Công Nghệ Thông Tin/Viễn Thông,Phần Mềm CNTT/Dịch vụ Phần mềm,3,Không giới hạn,Không hiển thị,,Nhân viên,"Data Analytics, Banking Operations, Loyalty Analytics",Bất kỳ,Không hiển thị,Không hiển thị,,Toàn thời gian,"Công Nghệ Thông Tin/Viễn Thông, Data Engineer/Data Analyst/AI, Phần Mềm CNTT/Dịch vụ Phần mềm, Data Analytics, Banking Operations, Loyalty Analytics, Galaxy Digital Holdings Co., Ltd (GH), Hồ Chí Minh",Data Engineer/Data Analyst/AI,0,100,34500000.0,23000000.0,46000000.0
+HCMC - Admin Assistant (Full-Time) - For Fresher,Decathlon Vietnam,"Pax Sky, Ung Văn Khiêm, Phường 25, Bình Thạnh, Ho Chi Minh City, Vietnam","Job Description
+OUR PURPOSE: As Admin Assistant (6 months contract with 3rd party contract), I guarantee the availability and quality of administrative services and office operation to ensure the satisfaction of teammates
+YOUR RESPONSIBILITIES:
+1
+International and Domestic Express:
+• In charge for sending goods/documents abroad/ domestic
+Create the bills/invoices for teammate/embassy to make sure the sending information is corrected
+Work with shipping company such as DHL/FedEx/UPS/ New post to make sure the goods/documents are sending on time and no lost
+Deal with Vietnam customs or related person to clear all shipments are stucked if has
+In charge for receiving goods/documents and deliver to right person
+Work with teammate to make sure the sending information is corrected and follow the guidelines
+Support others Admin project when needed
+2
+Payment:
+• Incharge payment for one of supplier for Business trip and others upon request
+3
+Sharing welcome desk:
+• Welcome guest with a professional way
+Manage visitor in and out
+Mange reception area: Well organized the area
+Ready to welcome guest
+Always apply 5S in the area
+
+Our Requirements
+• Full-time availability: 9:00 AM – 6:00 PM, Monday to Friday
+Good communication skills in English (both written and verbal)
+Proficient in Excel and basic data analysis
+Detail-oriented, logical thinking, and professional working style
+Active listening, problem-solving skills, and a strong sense of service
+Energetic, resilient, responsible, and open-minded
+
+Your Benefits
+• Social Insurance according to Vietnamese Labor Law and Premium Insurance
+Annual health check
+Several training courses to increase your competence with great opportunities for career development
+Attractive staff discount for all purchases in Decathlon Vietnam",,2025-09-07,,,1,Không giới hạn,1,09:00 - 18:00,Mới Tốt Nghiệp,,Bất kỳ,Không giới hạn,Bất kỳ,Thứ 2  đến Thứ 6,Toàn thời gian,Decathlon Vietnam,,18,60,,,
+Trưởng Nhóm Kiểm Soát Phân Tích Tài Chính,Công Ty Cổ Phần Synnex FPT,"Phố Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Việt Nam, Tầng 2,Tòa nhà Zodiac, phố Duy Tân, Đường Phạm Hùng, Cầu Giấy, Hà Nội (Đằng sau tòa nhà FPT)","• Hỗ trợ Lãnh đạo Công ty lập/đánh giá/hiệu chỉnh kế hoạch kinh doanh, liên quan tới Tài chính
+• Quản lý và xây dựng hệ thống báo cáo quản trị
+• Lập kế hoạch kiểm soát, nội dung kiểm soát và thời gian kiểm soát
+• Chỉ đạo, theo dõi quá trình kiểm soát
+• Đề xuất ý kiến, tư vấn khắc phục và tối ưu hệ thống quản lý tài chính
+• Dự báo, phân tích, đề xuất, tư vấn các biện pháp quản trị rủi ro và phát hiện các cơ hội
+• Các công việc khác theo sự phân công của Lãnh đạo cấp trên","• Nam, tốt nghiệp các trường Đại học chuyên ngành Kiểm toán, kế toán, tài chính….
+• Yêu cầu tối thiểu 5 năm kinh nghiệm trong lĩnh vực tài chính, kiểm toán, kiểm soát, trong đó có ít nhất 3 năm vị trí kiểm toán.
+• Ưu tiên các bạn đã hoặc đang hoạt động trong môi trường Big4.
+• Có trách nhiệm, chịu được áp lực cao trong công việc.
+• Thẳng thắn, nghiêm túc, trung thực.",2025-09-07,Ngân Hàng & Dịch Vụ Tài Chính,Tài Chính,5,Cử nhân,1,,Nhân viên,"Kế Toán, Kiểm Soát Kiểm Toán, Kiểm Toán, Quản Lý Rủi Ro, Tài Chính",Bất kỳ,Người Việt Nam,Nam,Thứ 2  đến Thứ 6,Toàn thời gian,"Ngân Hàng & Dịch Vụ Tài Chính, Phân Tích & Báo Cáo Tài Chính, Tài Chính, Kế Toán, Kiểm Soát Kiểm Toán, Kiểm Toán, Quản Lý Rủi Ro, Tài Chính, Công Ty Cổ Phần Synnex FPT, Hà Nội",Phân Tích & Báo Cáo Tài Chính,27,40,,,
+Ha Noi - Production Quality Specialist For Soft Equipment Team (3rd Party contract),Decathlon Vietnam,"Pax Sky, Ung Văn Khiêm, Phường 25, Bình Thạnh, Ho Chi Minh City, Vietnam","JOB DESCRIPTION
+Would you like to work in an international, innovative and dynamic environment with team members from all around the world?
+Do you thrive in a job where you are responsible and autonomous to make your own decisions?
+Then Decathlon is the perfect match for you!
+MISSION: As your products are produced at your suppliers’ site, you develop your supplier‘s expertise to produce good quality products within short lead times and at low cost
+Team: Soft Equipment (Bag products)
+YOUR RESPONSIBILITIES:
+Quality Management:
+• Control the Quality of the Products in lines and before shipment
+Improve the Quality system of your suppliers
+Ensure that Decathlon Compliance standards and the local regulation are respected, in terms of quality, safety, environment, toxicology, and social compliance
+Prepare and plan the factories assessment
+
+WHAT YOU OFFER US
+• Passionate about sports
+Strong English communication skills
+Excellent communication and negotiation skills
+Willingness to work on-site, with frequent factory visits in Phu Tho (~3 times/week)
+Detail-oriented and data-driven
+Team-oriented with strong collaboration spirit
+Continuous improvement (CI) mindset
+Experience in supplier management and quality system management is a plus
+
+YOUR BENEFITS:
+• Enjoy a competitive salary with 100% base salary during the probation period
+Receive 13th month salary
+Social Insurance according to Vietnamese Labor Law and Premium Insurance
+Take 12 days of paid leave annually
+Receive a monthly sports allowance to support your active lifestyle
+Join various team-building and collective activities throughout the year
+Enhance your skills through training programs and a personalized Career & Learning Development Plan",,2025-09-07,,,2,Không giới hạn,1,09:00 - 18:00,Nhân viên,,Tiếng Anh,Không giới hạn,Bất kỳ,Thứ 2  đến Thứ 6,Toàn thời gian,Decathlon Vietnam,,18,60,,,
+Store Manager (Fashions Retail),Jaspal Company Limited,"Takashimaya, Lotte Tây Hồ, Vincom Cần Thơ, 68 Nguyen Hue, Ben Nghe Ward, District 1, HCMC","• Perform excellent customer service and demonstrate strong selling skills
+Có khả năng push sales và dịch vụ chăm sóc khách hàng tốt.
+• Manage people, store operations and environment to achieve sales, service, customer satisfaction, and profitability goals
+Quản lý nhân viên và quản lý vận hành cửa hàng, cung cấp dịch vụ tốt nhất tới khách hàng, từ đó đạt mức doanh thu mục tiêu.
+• Ensure store windows and in-store visual merchandising are in line with brand’s guideline and the store is maintained in proper housekeeping
+Đảm bảo VM cửa hàng tuân theo hướng dẫn từ thương hiệu, duy trì vệ sinh sạch sẽ, gọn gàng trong cửa hàng.
+• Monitor the retail store inventory level; replenishment of stock and return cycle is carried out accordingly
+Giám sát và quản lý kho, hàng tồn kho.
+• Attend to customer complaints and ensure they are tactfully handled
+Tiếp nhận và giải quyết khéo léo khiếu nại của khách hàng.
+• Maintain store staff job results by leading, coaching, training, motivating, counseling and disciplining employees.
+Duy trì và nâng cao hiệu suất làm việc của nhân viên cửa hàng nhờ vào đào tạo, giám sát, khuyến khích, động viên và kỷ luật.
+• Work with the management and HR regarding manpower planning, recruitment and selection, training program, staff evaluation and all personnel actions. Ensure that all HR issues are carried out consistently with the company’s HR policies and practice
+• Làm việc với quản lý và phòng nhân sự về kế hoạch nhân lực, tuyển dụng, đào tạo và đánh giá nhân viên cùng với các hoạt động khác về nhân sự. Đảm bảo các vấn đề về nhân sự được thực hiện tuân theo nội quy công ty.
+• Submit attendance report and other related documents to HR for payroll processing
+Chuẩn bị báo cáo chấm công và các báo cáo liên quan đến tính lương cho phòng nhân sự.
+• Responsible for staff working schedule, handle and maintain staff discipline
+Phân công lịch làm việc cho nhân viên, duy trì và xử lý kỷ luật nhân viên theo quy định.
+• Submit all monthly store expenses/invoices, sales performance, and other reports to Finance Manager to process the payment
+Gửi báo cáo chi phí của cửa hàng, doanh số bán hàng của nhân viên và các báo cáo liên quan khác tới bộ phận kế toán để làm thanh toán.
+• Other tasks as assigned by the superior
+Các công việc khác được giao bởi quản lý.","1. Able to communicate in English
+Ứng viên có thể giao tiếp bằng tiếng Anh
+2. Candidate must possess at least diploma or degree.
+Ứng viên tốt nghiệp đại học/cao đẳng
+3. At least 1 Year(s) of working experience in the related field is required.
+Ít nhất 1 năm kinh nghiệm làm việc tại vị trí ứng tuyển.
+4. Preferably Manager specialized in Sales - Retail/General or equivalent.
+Ưu tiên ứng viên làm trong ngành bán lẻ thời trang hoặc tương đương.
+5. Have ability of Team management and coordination.
+Có khả năng quản lý và phối hợp
+6. With a strong sense of responsibility, healthy and positive working attitude, good professional ethics and language, writing skills.
+Ứng viên cần có tinh thần trách nhiệm cao, thái độ làm việc tích cực, đạo đức nghề nghiệp tốt
+
+* Salary/Mức lương: 600-800 USD.
+
+* Working hours/Thời gian làm việc: By shift/ Xoay ca; Off 1 day/week/ 1 tuần được nghỉ 1 ngày.
+
+* Benefit/ Phúc lợi:
+- Year-end bonus, salary review/ Chính sách thưởng cuối năm, tăng lương hàng năm
+- Medical claim, annual health check-up/ Chế độ thăm khám chữa bệnh, khám sức khỏe định kì hàng năm
+- Accident Insurance 24/7/ Bảo hiểm tai nạn 24/7
+- Staff purchase/ Ưu đãi mua hàng nhân viên
+- Dynamic, friendly, professional working environment/ Môi trường làm việc trẻ, năng động, chuyên nghiệp, thân thiện.",2025-09-07,Bán Lẻ/Tiêu Dùng,Thời trang/Trang sức,1,Cử nhân,Không hiển thị,,Trưởng phòng,"Sales Planning, Fashion Retail, Retail Store Operations, Sales Development, Store Management",Tiếng Anh,Không hiển thị,Không hiển thị,,Toàn thời gian,"Bán Lẻ/Tiêu Dùng, Quản Lý Cửa Hàng, Thời trang/Trang sức, Sales Planning, Fashion Retail, Retail Store Operations, Sales Development, Store Management, Jaspal Company Limited, Hồ Chí Minh, Hà Nội, Cần Thơ",Quản Lý Cửa Hàng,0,100,16100000.0,13800000.0,18400000.0
+Finance & Accounting Assistant Manager - ACSV Legal,Acclime Vietnam,"Lim Tower 3, 29A Nguyen Dinh Chieu, DaKao Ward, District 1, HCM City, Level 9, Lim Tower 3, 29A Nguyen Dinh Chieu, District 1, HCMC","Challenge yourself. Job summary.
+In this exciting and challenging role, you will report to Managing Partner, as Finance & Accounting Assistant Manager role in HCMC. The Finance & Accounting Assistant Manager will oversee the financial operations of the company, ensuring accurate financial & accounting reporting, budgeting, and analysis. This role involves managing the finance team, developing financial strategies, and ensuring Accounting, Taxation compliance with financial regulations, Laws and company policies.
+
+What you will do. A day in the life.
+Manage Internal Finance & Accounting Department and take key responsibilities:
+• Assist managing the accounting & reporting, credit control, billing, and cost control
+• Regulate, supervise, and implement a timely, full and accurate set of accounting books reflecting all activities in a manner commensurate with relevant legislation and regulation and subject to internal guidelines
+• Oversee the preparation of and present monthly, quarterly and annual VAS financial reports including monthly profit and loss, forecast vs. budget and monthly cash flow by location/entities and provide recommendations
+• Assist managing and direct organisational accounting and financial functions and procedures, including developing and implementing internal controls and accounting operations, providing input on the adoption or utilisation of effective accounting systems, handling various regulatory or tax filings, and advising on financial and accounting matters
+• Oversee the preparation of and present timely, regular and duly prepared financial statements and reports as required by pertinent laws and regulations and IFRS, and as demanded by the Management/ Group Finance Team.
+• Report to Finance Team at parent company level for monthly finance pack based on IFRS.
+• Supervise maintenance of underlying accounting records in an accurate and appropriate manner for management purpose.
+• Supervise the preparation of invoices and engagement letters, ensuring prompt payment from customers and minimise the number of incoming and outstanding invoice queries from customers.
+• Supervise the review of and monitor general ledger and month-end closing, financial statement preparation and reporting including general ledger account reconciliations.
+• Supervise the review of and approve recoverable expense billings and reconciliations.
+• Supervise the preparation of or review government and statutory reporting, such as annual accounts, VAT and income tax filing.
+• Develop budgets and cash forecasting planning based on International Financial Reporting Standards to provide financial insight into the organisations’ plans and operating budgets including monthly and annual operating budget.
+• Oversee and support the Group with the audit reporting from an International Financial Reporting Standards perspective.
+• Assess and evaluate the financial performance of the Firm with regard to long-term operational goals, budgets and forecasts and provide recommendations • Create and establish annual financial objectives that align with the firm’s plan for growth and expansion.
+• Identify, develop and execute analysis of business initiatives
+• Ensure proper functioning of all systems, databases and financial software
+• Others tasked assigned by Line Manager.","Qualifications:
+• Education: Bachelor’s degree in Finance, Accounting, or a related field. CPA or MBA preferred.
+• Experience: Minimum of 5 years of experience in finance, accounting and taxation, with at least 2 years in a managerial role.
+
+Skills:
+• Strong analytical and problem-solving skills.
+• Excellent communication and interpersonal skills.
+• Proficiency in financial software and Microsoft Office Suite.
+• Knowledge of financial regulations and compliance requirements.
+
+Personal Attributes:
+• Positive, agility, friendly, opened mind, can do attitude.
+• Detail-oriented and highly organized.
+• Ability to work under pressure and meet tight deadlines.
+• Strong leadership and team management capabilities.
+• Strategic thinker with a proactive approach.",2025-09-07,Kế Toán/Kiểm Toán,Luật/Dịch vụ pháp lý,5,Cử nhân,1,08:30 - 17:30,Nhân viên,"Accounting Software, Budgeting, Financial Analysis, Leadership, Tax Compliance",Tiếng Anh,Không hiển thị,Bất kỳ,Thứ 2  đến Thứ 6,Toàn thời gian,"Kế Toán/Kiểm Toán, Kế Toán Tài Chính, Luật/Dịch vụ pháp lý, Accounting Software, Budgeting, Financial Analysis, Leadership, Tax Compliance, Acclime Vietnam, Hồ Chí Minh",Kế Toán Tài Chính,0,100,,,
