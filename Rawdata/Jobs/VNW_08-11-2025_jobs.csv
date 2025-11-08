@@ -1,0 +1,655 @@
+Title,Company,Salary,Location,Job Description,Job Requirements,Date Posted,Industry,Field,Experience,Education,Age,Vacancy,Work Time,Level,Skills,Language,Nationality,Gender,Marital Status,Work Date,Work Type,Keyword
+Senior Engineering & EHS Manager,BAT Vietnam,"Tới $ 6,000 /tháng","Nationwide, Phòng 18.02, tầng 18, Tòa nhà The Hallmark, Số 15, đường Trần Bạch Đằng, phường Thủ Thiêm, Thành phố Thủ Đức, Thành phố Hồ Chí Minh","BAT is evolving at pace into a global multi-category business. Our purpose is to create a better tomorrow™ by building a smokeless world.
+To achieve our ambition, we are looking for colleagues who are ready to join us on this journey! Tomorrow can’t wait, let’s shape it together!
+
+JOB OVERVIEW
+British American Tobacco (BAT) Vietnam has an exciting opportunity for a dynamic and experienced leader to join our operations team as the Engineering & EHS Manager.
+As a key member of the factory leadership team, you will be instrumental in shaping the future of our manufacturing sites. You will lead all technical services, including critical Engineering projects, Facility management, and Site services, ensuring our operations are stable, efficient, and resilient. Furthermore, you will own and champion the Environment, Health & Safety (EHS), Security, and Business Continuity programs across our Vietnam operations.
+This is a critical leadership position responsible for driving compliance, advancing our ESG (Environmental, Social, and Governance) agenda, and building a high-performing technical team to support BAT’s ambition of creating a better tomorrow™.
+
+PURPOSE OF THE ROLE",,,,,,,,,,,,,,,,,,"Kỹ Thuật, Bảo trì/Bảo Dưỡng, Sản xuất, Budgeting, Coaching, Effective Communication, EHS Compliance, Project Management, BAT Vietnam, Khác"
+Kỹ Sư Thuật Toán Điều Phối Robot (R&D),Công Ty Cổ Phần Kỹ Thuật Temas,"$ 600-1,000 /tháng","TT2A-6, Khu ĐG1, Phường Xuân Phương, TP. Hà Nội, VP.Hà Nội: TT2A-6, Khu ĐG1, Phường Xuân Phương, TP. Hà Nội; VP.HCM: Số 02, Lô C2, Đường 50, KDC Phú Nhuận, Phường Phước Long, TP. HCM","• Phát triển, tối ưu và triển khai các thuật toán điều phối, lập kế hoạch đường đi, điều phối giao thông, tối ưu tài nguyên (Task Allocation, Path Planning, Traffic Control, Resource Optimization) cho hệ thống điều phối nhiều xe AMR.
+• Mô phỏng hệ thống đa Robot để đánh giá hiệu năng, khả năng mở rộng của thuật toán.
+• Ứng dụng AI / Machine Learning / Reinforcement Learning vào việc tối ưu điều phối và dự đoán tình huống giao thông nội bộ.
+• Phối hợp với nhóm phát triển phần mềm hệ thống (Front-end & Back-end) để tích hợp thuật toán vào hệ thống điều phối (Fleet Management System).","• Tốt nghiệp ĐH các ngành Khoa học máy tính, Kỹ thuật Robotics, Tự động hóa hoặc các ngành liên quan.
+• Thành thạo các thuật toán tối ưu cho đa Robot (Multi-Robot Optimization, Planning, Task Allocation).
+• Có kiến thức vững và kinh nghiệm về AI/ML/RL (Machine Learning / Reinforcement Learning) và ứng dụng trong điều phối, lập kế hoạch.
+• Có kinh nghiệp lập trình C++ / Python
+• Có kinh ngiệm mô phỏng, phát triển hệ thống đa Robot là lợi thế.
+• Có hiểu biết và kinh nghiệm về hệ thống AGV, AMR, Robot công nghiệp là lợi thế.
+
+Quyền lợi:
+
+- Mức lương thỏa thuận theo năng lực
+- Thưởng theo chế độ đặc thù của Phòng R&D, thưởng KPI 6 tháng/lần, thưởng tháng 13, thưởng theo doanh số sản phẩm bán ra.
+- Thời gian làm việc linh hoạt.
+- Nghỉ 2-3 ngày thứ 7/tháng và nghỉ Chủ nhật
+- 12 ngày nghỉ phép/năm, phép năm tăng theo thâm niên
+- Nghỉ ngày sinh nhật kèm quà tặng
+- Nghỉ mát và teambuilding định kỳ hàng năm
+- Khám sức khỏe định kỳ 1 năm 1 lần
+- Điều chỉnh lương 1 năm 1 lần
+- Được trang bị laptop
+- Môi trường trẻ, năng động, linh hoạt, khuyến khích sự sáng tạo, đổi mới
+- Được tham gia đào tạo phát triển năng lực trong nội bộ hoặc cử đi đào tạo bên ngoài.",08/11/2025,Sản Xuất > Nghiên Cứu & Phát Triển,Tự động hoá,1,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,"Robot, AMRs Design, AGV, Algorithm, AI",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Sản Xuất, Nghiên Cứu & Phát Triển, Tự động hoá, Robot, AMRs Design, AGV, Algorithm, AI, Công Ty Cổ Phần Kỹ Thuật Temas, Hà Nội"
+Kỹ Sư Tự Động Hóa Ứng Dụng (R&D),Công Ty Cổ Phần Kỹ Thuật Temas,"$ 600-1,000 /tháng","TT2A-6, Khu ĐG1, Phường Xuân Phương, TP. Hà Nội, VP.Hà Nội: TT2A-6, Khu ĐG1, Phường Xuân Phương, TP. Hà Nội; VP.HCM: Số 02, Lô C2, Đường 50, KDC Phú Nhuận, Phường Phước Long, TP. HCM","• Nghiên cứu, tìm hiểu chuyên sâu về các sản phẩm mới của Temas R&D
+• Triển khai tích hợp ứng dụng, thử nghiệm, đào tạo và hướng dẫn vận hành.
+• Hỗ trợ kỹ thuật và tư vấn giải pháp; đào tạo cho Sales, Kỹ thuật trong nội bộ công ty.
+• Hỗ trợ khách hàng về tư vấn giải pháp, đào tạo sử dụng, bảo hành sản phẩm R&D.
+• Hỗ trợ sản xuất gồm tích hợp, kiểm tra, hoàn thiện sản phẩm R&D trước bàn giao.","• Tốt nghiệp ĐH các ngành Tự động hóa, Cơ điện tử, Kỹ thuật Robotics, Kỹ thuật điều khiển hoặc các ngành liên quan.
+• Có hiểu biết và nền tảng tốt về thiết bị và hệ thống tự động hóa công nghiệp, như Robot Công nghiệp, PLC, cảm biến, truyền thông công nghiệp (TCP/IP, Modbus, v.v.).
+• Có kinh nghiệm làm việc trong môi trường sản xuất thiết bị tự động hóa, tích hợp hệ thống (System Integrator) là lợi thế.
+• Có kinh nghiệm lập trình ứng dụng, tích hợp Robot Công nghiệp / PLC / Truyền thông công nghiệp là lợi thế.
+• Có hiểu biết và kinh nghiệm về hệ thống AGV, AMR là lợi thế.
+• Từng làm FAE hoặc kỹ sư ứng dụng sản phẩm (Application Engineer) là lợi thế.
+
+Quyền lợi:
+
+- Mức lương thỏa thuận theo năng lực
+- Thưởng theo chế độ đặc thù của Phòng R&D, thưởng KPI 6 tháng/lần, thưởng tháng 13, thưởng theo doanh số sản phẩm bán ra.
+- Thời gian làm việc linh hoạt.
+- Nghỉ 2-3 ngày thứ 7/tháng và nghỉ Chủ nhật
+- 12 ngày nghỉ phép/năm, phép năm tăng theo thâm niên
+- Nghỉ ngày sinh nhật kèm quà tặng
+- Nghỉ mát và teambuilding định kỳ hàng năm
+- Khám sức khỏe định kỳ 1 năm 1 lần
+- Điều chỉnh lương 1 năm 1 lần
+- Được trang bị laptop
+- Môi trường trẻ, năng động, linh hoạt, khuyến khích sự sáng tạo, đổi mới
+- Được tham gia đào tạo phát triển năng lực trong nội bộ hoặc cử đi đào tạo bên ngoài.",08/11/2025,Sản Xuất > Nghiên Cứu & Phát Triển,Tự động hoá,1,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,"Robot, AMRs Design, AGV, System Integrators, Tự Động Hóa",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Sản Xuất, Nghiên Cứu & Phát Triển, Tự động hoá, Robot, AMRs Design, AGV, System Integrators, Tự Động Hóa, Công Ty Cổ Phần Kỹ Thuật Temas, Hà Nội"
+Senior AI Engineer,Công Ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận (PNJ),Thương lượng,"170E Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Thành phố Hồ Chí Minh, 170E Phan Đăng Lưu, Phường 03, Quận Phú Nhuận, Tp. Hồ Chí Minh","Mục đích vị trí công việc
+• Là hạt nhân kỹ thuật trong việc thiết kế, phát triển, vận hành và tối ưu hệ thống Agentic AI – từ POC đến Production với các mục tiêu:
+- Thiết lập pipeline AI Agent: Data ingestion → model training → CI/CD → monitoring, đảm bảo hiệu quả vận hành (thời gian phản hồi, độ chính xác, availability).
+- Tối ưu liên tục thuật toán và kiến trúc: giảm thiểu sự can thiệp thủ công, nâng cao tính ổn định và khả năng mở rộng của giải pháp.
+• Hỗ trợ kỹ thuật và chuyển giao công nghệ cho nhóm vận hành, đảm bảo ứng dụng dụng hiệu quả vào quy trình kinh doanh thực tế.
+
+Trách nhiệm chính
+- Thiết kế kiến trúc agent
+• Đánh giá use – case, đề xuất Poc, định nghĩa module (decomposition, memory, planning, execution, feedback loop).
+• Lựa chọn framework và công cụ (LangChain, ReAct, multi-agent orchestration) phù hợp.
+
+Quản lý vòng đời giải pháp
+• Xây dựng, vận hành pipeline MLOps/LLMOps tự động: data ingestion → feature store → training → containerization → deployment → monitoring → re‑training.
+• Hướng dẫn team DevOps/Full‑stack tích hợp và vận hành model trong môi trường production, đảm bảo agent hoạt động ổn định.
+
+Tối ưu hóa & mở rộng
+• Giám sát hiệu suất agent trong thực tế, phân tích logs và metrics để liên tục tối ưu hóa thuật toán và hệ thống.
+• Phối hợp với team Platform/Infra thiết kế và duy trì thư viện thành phần chung (templates, connectors, wrappers) nhằm đẩy nhanh việc phát triển, triển khai và tái sử dụng các agent mới.
+
+Phát triển năng lực đội ngũ
+• Tham gia tổ chức buổi workshop, đào tạo nội bộ về kiến trúc agent, MLOps và multi-agent coordination.","• Tốt nghiệp Đại học trở lên. Chuyên ngành Công nghệ thông tin, Khoa học máy tính, Toán hoặc lĩnh vực có liên quan.
+• Nền tảng và kinh nghiệm thực hành Machine Learning, Deep Learning.
+• Triển khai và vận hành model lên ít nhất 1 nền tảng cloud: AWS/GCP/Azure ML.
+• Ưu tiên có kinh nghiệm với LLMOps/MLOps, tham gia POC Agentic AI.
+• Thành thạo Python, ML Fundamentals.
+• Hiểu khái niệm cơ bản ML: supervised/ unsupervised learning, regression, classification, clustering.
+• Nắm nguyên lý LLM (Transformer, attention).
+• Kỹ năng xây prompt tối ưu, đánh giá chất lượng đầu ra.
+• Tư duy & kỹ năng phân tích.
+• Kỹ năng giải quyết vấn đề.
+• Kỹ năng làm việc độc lập.
+• Kinh nghiệm làm việc theo quy trình Agile/scrum.
+• Khả năng học hỏi nhanh.
+• Sẵn sàng nghiên cứu, thử nghiệm giải pháp mới.
+• Fine – tuning LLM (Nice to have)",08/11/2025,Công Nghệ Thông Tin/Viễn Thông > Data Engineer/Data Analyst/AI,Phần Mềm CNTT/Dịch vụ Phần mềm,Không yêu cầu,Cử nhân,Không hiển thị,2,,Trưởng phòng,"AI, AI prompts, Python, Large Language Models, LLMs prompting",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Công Nghệ Thông Tin/Viễn Thông, Data Engineer/Data Analyst/AI, Phần Mềm CNTT/Dịch vụ Phần mềm, AI, AI prompts, Python, Large Language Models, LLMs prompting, Công Ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận (PNJ), Hồ Chí Minh"
+Tuyển gấp Chuyên Viên Pháp chế_ Phụ trách Dự Án Bất động sản cho Công ty thành viên,Công Ty Cổ Phần Tập Đoàn Phú Thái Holdings,18tr-25tr ₫/tháng,"192/19 Thái Thịnh, Đống Đa, Hà Nội, 19/192 Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội","1. MÔ TẢ CÔNG VIỆC:
+• Tham gia quá trình nghiên cứu, đánh giá và triển khai dự án từ giai đoạn đầu (quy hoạch, chủ trương đầu tư, giao đất, cấp phép xây dựng...) đến khi hoàn thành.
+• Chủ trì soạn thảo, kiểm tra và hoàn thiện hồ sơ pháp lý cùng các phòng ban trong Công ty liên quan đến dự án mà Công ty chuẩn bị đầu tư hoặc phối hợp đầu tư với đối tác.
+• Giám sát quá trình thực hiện các thủ tục pháp lý dự án theo quy định của pháp luật.
+• Thực hiện công tác lưu trữ, giữ gìn, bảo quản, bảo mật tất cả hồ sơ, dữ liệu, thông tin liên quan đến toàn bộ hồ sơ pháp lý của các dự án được giao.
+• Thực hiện những nhiệm vụ công việc khác theo sự phân công.","• Độ tuổi: Từ 25 – 30.
+• Tốt nghiệp Đại học chuyên ngành Luật, Bất động sản, Quản trị đất đai, Xây dựng, Quy hoạch…
+• Trung thực, trách nhiệm, chịu áp lực công việc tốt; khả năng giải quyết vấn đề linh hoạt, giao tiếp tốt.
+• Có kinh nghiệm tối thiểu 5 năm ở vị trí tương đương trong lĩnh vực đầu tư xây dựng các dự án Bất động sản
+• Am hiểu luật Đất đai, luật Dân sự, luật Kinh tế và các văn bản pháp luật khác liên quan đến hoạt động kinh doanh Bất động sản.
+• Ưu tiên có kinh nghiệm làm việc trực tiếp với cơ quan nhà nước liên quan đến các dự án bất động sản.",08/11/2025,Pháp Lý > Tư Vấn Pháp Lý,Bất Động Sản/Cho thuê,5,Cử nhân,25-25,1,08:00 - 17:30,Nhân viên,"Bất Động Sản, Làm Việc Dự Án, Luật, Pháp Lý Dự Án, Đầu Tư Bất Động Sản",Bất kỳ,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T7,Toàn thời gian,"Pháp Lý, Tư Vấn Pháp Lý, Bất Động Sản/Cho thuê, Bất Động Sản, Làm Việc Dự Án, Luật, Pháp Lý Dự Án, Đầu Tư Bất Động Sản, Công Ty Cổ Phần Tập Đoàn Phú Thái Holdings, Hà Nội"
+Tuyển gấp đi làm ngay_Chuyên viên Kế Toán Công Trình,Công Ty Cổ Phần Tập Đoàn Phú Thái Holdings,15tr-25tr ₫/tháng,"Đống Đa, Hà Nội, 19/192 Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội","I. MỤC TIÊU CÔNG VIỆC
+Chịu trách nhiệm tổ chức, kiểm soát và tổng hợp toàn bộ công tác kế toán liên quan đến các dự án, công trình xây dựng được phân công; đảm bảo số liệu chính xác, kịp thời, minh bạch và tuân thủ quy định pháp luật cũng như quy chế tài chính của công ty.
+II. NHIỆM VỤ CỤ THỂ
+1. Quản lý và hạch toán kế toán công trình
+• Theo dõi, hạch toán và quản lý chi phí cho nhiều công trình cùng lúc: chi phí vật tư, nhân công, máy thi công, thuê ngoài, chi phí chung.
+• Kiểm soát và đối chiếu công nợ với nhà cung cấp, đội thi công, nhà thầu phụ từng công trình.
+• Kiểm tra và theo dõi tạm ứng – hoàn ứng công trình, đảm bảo chứng từ hợp lệ và đúng mục đích.
+• Đối chiếu, tổng hợp số liệu giữa văn phòng và công trình, đảm bảo thống nhất và kịp thời.
+2. Quản lý chứng từ và hồ sơ tài chính
+• Thu thập, kiểm tra, lưu trữ hóa đơn – chứng từ cho từng công trình theo quy định.
+• Kiểm tra định mức, dự toán, khối lượng nghiệm thu để xác định chi phí thực tế và giá thành công trình.
+• Lập báo cáo chi phí – lãi/lỗ từng công trình theo tháng/quý; phân tích biến động chi phí và đề xuất biện pháp kiểm soát.
+• Tham gia lập và kiểm tra hồ sơ thanh – quyết toán với chủ đầu tư, nhà thầu phụ.
+3. Phối hợp nội bộ
+• Phối hợp với Ban điều hành dự án, Phòng Kỹ thuật, Phòng Kế hoạch – Dự án trong việc theo dõi tiến độ, nghiệm thu và thanh toán.
+• Hỗ trợ Kế toán trưởng trong việc tổng hợp báo cáo tài chính, báo cáo thuế liên quan đến hoạt động xây dựng.
+• Kiểm tra, hướng dẫn và giám sát công tác kế toán tại công trình khi đi công tác.
+4. Công tác tại công trình
+• Định kỳ hoặc đột xuất đi công tác đến các công trình để kiểm tra chứng từ, xác minh số liệu thực tế, hỗ trợ công tác quyết toán.
+• Là đầu mối kế toán giữa văn phòng và công trình, đảm bảo luồng thông tin kế toán – tài chính thông suốt.
+5. Nhiệm vụ khác
+• Tham gia xây dựng và hoàn thiện quy trình kế toán công trình thống nhất toàn hệ thống.
+• Thực hiện các công việc khác theo chỉ đạo của Kế toán trưởng / Ban Giám đốc.","1. Trình độ chuyên môn
+• Tốt nghiệp Đại học chuyên ngành Kế toán, Tài chính, Kiểm toán.
+• Ưu tiên có chứng chỉ hành nghề kế toán hoặc kiểm toán viên nội bộ.
+2. Kinh nghiệm
+• Tối thiểu 3–5 năm kinh nghiệm trong lĩnh vực kế toán công trình, kế toán xây lắp hoặc kế toán tổng hợp trong doanh nghiệp xây dựng/bất động sản.
+• Có kinh nghiệm quản lý nhiều công trình cùng lúc và làm việc trực tiếp với Ban điều hành dự án.
+• Hiểu rõ quy định về kế toán đầu tư xây dựng cơ bản, thuế GTGT, TNDN và quyết toán công trình.
+3. Kỹ năng và phẩm chất
+• Thành thạo phần mềm kế toán (MISA, Fast, hoặc tương đương) và Excel nâng cao.
+• Kỹ năng tổng hợp, phân tích số liệu và lập báo cáo quản trị.
+• Cẩn trọng, trung thực, có tinh thần trách nhiệm cao.
+• Có khả năng làm việc độc lập cũng như làm việc nhóm tốt, tinh thần trách nhiệm cao, chịu được áp lực công việc, sẵn sàng tăng ca, đi công tác ngắn hạn. Có khả năng làm việc với áp lực cao, tiến độ gấp.
+• Kỹ năng giao tiếp và phối hợp với nhiều bộ phận (Ban dự án, kỹ thuật, mua hàng...).",08/11/2025,Kế Toán/Kiểm Toán > Kế Toán Quản Trị,Kỹ thuật xây dựng/Cơ sở hạ tầng,5,Cử nhân,25-35,1,08:00 - 17:30,Nhân viên,"Bất Động Sản, Dự án, Kế Toán Tổng Hợp, Kế Toán Vật Tư Công Trình, Phần mềm kế toán",Tiếng Việt,Không giới hạn,Nam,Bất kỳ,T2 - T7,Toàn thời gian,"Kế Toán/Kiểm Toán, Kế Toán Quản Trị, Kỹ thuật xây dựng/Cơ sở hạ tầng, Bất Động Sản, Dự án, Kế Toán Tổng Hợp, Kế Toán Vật Tư Công Trình, Phần mềm kế toán, Công Ty Cổ Phần Tập Đoàn Phú Thái Holdings, Hà Nội"
+Email Marketing Specialist,Công Ty TNHH A G Steel Manufacture,$ 400-500 /tháng,"88-88A Nguyễn Gia Trí, Ward 25, Bình Thạnh District, Ho Chi Minh City, 88 Nguyễn Gia Trí, phường 25, Bình Thạnh, TP.HCM","JOB TITLE : Email Marketing Specialist
+Position Overview
+
+The Email Marketing Specialist will be responsible for planning, creating, and managing email campaigns that promote our brand, highlight new collections, and nurture customer engagement. You will play a key role in translating our brand’s handcrafted story into meaningful digital communication that inspires our audience.
+
+Key Responsibilities
+
+Plan and execute email marketing campaigns to promote products, collections, and stories.
+
+Create and design visually appealing newsletters that reflect the brand’s aesthetic and tone.
+
+Write engaging content that showcases the artistry and value of our handmade furniture.
+
+Manage and segment email lists to target different customer groups effectively.
+
+Monitor and analyze campaign performance (open rate, click rate, conversions) to optimize results.
+
+Collaborate with the marketing, design, and sales teams to align campaign goals and visuals.
+
+Ensure all email campaigns follow best practices in design, responsiveness, and deliverability.","Excellent English writing skills (100% of our target customers are native English speakers).
+Minimum 1 year of experience in managing and operating social media channels.
+
+Deep understanding of platform mechanisms and user behavior on Facebook, Instagram, YouTube, etc.
+
+Ability to write captions, scripts, and creative briefs tailored to each platform.
+
+Strong analytical thinking — able to interpret insights and optimize content based on data.
+
+Good sense of aesthetics, logic, and creativity in marketing and communication.
+
+Excellent communication and teamwork skills; proactive and able to work under pressure.
+
+Proficient in office and creative tools (Word, Excel, PowerPoint, Canva, etc.).
+
+Passionate about social media; energetic, trend-savvy, and quick to adapt.
+
+Salary: 10 – 15 million VND/month (2-month probation period at 85% of salary).
+Benefits: 12 annual leave days, yearly bonus, company trip, and lunch allowance.
+Environment: Young, friendly, and supportive team with approachable leaders.
+
+Facilities: Modern workspace with full equipment and tools for daily tasks.
+
+Workplace: 88 Nguyễn Gia Trí, Ward 25, Bình Thạnh District, Ho Chi Minh City
+
+Working Hours:
+
+Monday to Friday: 9:00 AM – 5:30 PM
+
+Saturday: 9:00 AM – 12:00 PM
+
+Lunch break: 12:00 PM – 1:00 PM",08/11/2025,Kiến Trúc/Xây Dựng > Thiết Kế Nội Thất,Nội thất/Gỗ,Không yêu cầu,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Tiếng Anh, Email Marketing",Tiếng Anh,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kiến Trúc/Xây Dựng, Thiết Kế Nội Thất, Nội thất/Gỗ, Tiếng Anh, Email Marketing, Công Ty TNHH A G Steel Manufacture, Hồ Chí Minh"
+Rhino 3D Furniture Designer,Công Ty TNHH A G Steel Manufacture,$ 480-800 /tháng,"Số 12 Nguyễn Thị My, ấp Thạnh An, xã Trung An, 88 Nguyễn Gia Trí, phường 25, Bình Thạnh, TP.HCM","Design and develop new furniture concepts using Rhino 3D and other 3D design tools.
+Translate sketches or concepts into detailed 3D models and technical drawings for production.
+Collaborate closely with the R&D and production teams to ensure feasibility and cost efficiency.
+Create product renderings, presentations, and visuals for marketing or client approval.
+Modify or improve existing designs based on feedback, materials, or functionality.
+Research design trends, materials, and finishing techniques to propose innovative furniture ideas.
+Support the prototyping process and review samples to ensure accuracy and quality.","Bachelor’s degree in Industrial Design, Furniture Design, Interior Design, or related field.
+Proven experience in furniture product design (at least 2 years preferred).
+Strong proficiency in Rhino 3D (essential).
+Experience with rendering tools such as KeyShot, V-Ray, or similar.
+Good understanding of materials (metal, wood, marble, upholstery, etc.) and furniture construction.
+Detail-oriented, creative, and able to balance design aesthetics with manufacturing feasibility.
+Basic knowledge of 2D drawings for production (AutoCAD or equivalent is a plus).
+Able to communicate clearly and collaborate effectively with engineers and production teams.",08/11/2025,Kiến Trúc/Xây Dựng > Thiết Kế Nội Thất,Nội thất/Gỗ,3,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Tiếng Anh, Nội Thất, Rhino 3D CAD",Tiếng Anh,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kiến Trúc/Xây Dựng, Thiết Kế Nội Thất, Nội thất/Gỗ, Tiếng Anh, Nội Thất, Rhino 3D CAD, Công Ty TNHH A G Steel Manufacture, Hồ Chí Minh"
+Lao Động Phổ Thông Ở Củ Chi,Công Ty TNHH A G Steel Manufacture,$ 400-600 /tháng,"Số 12 Nguyễn Thị My, ấp Thạnh An, xã Trung An, 88 Nguyễn Gia Trí, phường 25, Bình Thạnh, TP.HCM","Hàn khung sắt, chân ghế, bàn, kệ theo bản vẽ hoặc mẫu có sẵn.
+Đo, cắt, chỉnh và lắp ráp các chi tiết sắt đúng kích thước, đảm bảo độ chính xác cao.
+Kiểm tra mối hàn, mài nhẵn, xử lý bề mặt trước khi chuyển sang công đoạn sơn/mạ.
+Phối hợp với các bộ phận liên quan (thiết kế, sơn, QC) để hoàn thiện sản phẩm.
+Bảo quản dụng cụ, thiết bị hàn và khu vực làm việc gọn gàng, an toàn.","Chăm chỉ, thật thà, gắng bó lâu dài
+CCCD + giấy xác nhận hạnh kiễm
+Quyền lợi :
+Chưa có kinh nghiệm sẽ được đào tạo
+Ăn trưa tại công ty từ 12h00-13h00
+Nghĩ giữa giờ 30 phút
+Tăng ca x 1.5 lương cơ bản
+Thưởng chuyên cần
+Xét duyệt tăng lương + đóng BHXH
+Được ứng lương 15 hàng tháng
+Làm việc từ 8-17h. Từ thứ 2 - thứ 7. Nghĩ CN và Thứ 7 mỗi cuối tháng
+Nơi làm việc : Số 12, đường Nguyễn Thị My, Ấp Thạnh An, Xã Bình Mỹ, Huyện Củ Chi, TP. Hồ Chí Minh",08/11/2025,Khoa Học & Kỹ Thuật > Cơ Khí & Điện Lạnh,Sản xuất,Không yêu cầu,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,Thiết Kế Nội Thất,Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Khoa Học & Kỹ Thuật, Cơ Khí & Điện Lạnh, Sản xuất, Thiết Kế Nội Thất, Công Ty TNHH A G Steel Manufacture, Hồ Chí Minh"
+Admin Officer,Công Ty TNHH A G Steel Manufacture,$ 400-600 /tháng,"Số 12 Nguyễn Thị My, ấp Thạnh An, xã Trung An, 88 Nguyễn Gia Trí, phường 25, Bình Thạnh, TP.HCM","Manage the full recruitment process: job posting, CV screening, interviewing, and onboarding new employees.
+Maintain and update employee records, labor contracts, and track personnel changes.
+
+Handle timekeeping, payroll, social insurance (SI), and personal income tax (PIT) in compliance with regulations.
+
+Develop and implement company policies on benefits, rewards, and labor regulations.
+
+Organize internal training sessions, employee engagement activities, and company events.
+
+Coordinate with the Board of Directors in employee evaluation and development programs.","College or Bachelor’s degree in Human Resources Management, Business Administration, or related fields.
+At least 2–3 years of experience in HR or administrative roles.
+Good knowledge of Labor Law, Social Insurance, and basic HR processes.
+Proficient in Microsoft Office (Word, Excel, Google Sheets).
+Strong communication skills, detail-oriented, responsible, and supportive attitude.
+Good English communication skills (spoken and written).
+Work Location:
+No. 12, Nguyen Thi My Street, Thanh An Hamlet, Trung An Commune, Cu Chi District, Ho Chi Minh City
+Working Hours:
+Monday – Saturday: 08:00 – 17:00
+Full day off on the last Saturday of each month
+Lunch break: 12:00 – 13:00",08/11/2025,Kiến Trúc/Xây Dựng > Thiết Kế Nội Thất,Sản xuất,1,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Hành Chính, Kế Toán Tổng Hợp nội bộ",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kiến Trúc/Xây Dựng, Thiết Kế Nội Thất, Sản xuất, Hành Chính, Kế Toán Tổng Hợp nội bộ, Công Ty TNHH A G Steel Manufacture, Hồ Chí Minh"
+E-Commerce Executive,Công Ty TNHH A G Steel Manufacture,$ 570-760 /tháng,"88-88A Nguyễn Gia Trí, Ward 25, Bình Thạnh District, Ho Chi Minh City, 88 Nguyễn Gia Trí, phường 25, Bình Thạnh, TP.HCM","We are looking for a driven E-commerce Operations Executive who truly understands e-commerce for the U.S. market, is fluent in English (both spoken and written), and is familiar with Shopify, Etsy, Amazon, or similar platforms.
+You will manage and optimize our online stores for the U.S. market, ensuring smooth operations across product listings, inventory tracking, marketing campaigns, and customer experience while working closely with the CEO, marketing, operations, and logistics teams.
+
+-Manage and optimize daily operations of online stores, including: product listings, image updates, pricing, sales campaigns, promotions, bundles, and cross-sell strategies.
+-Set up new product launches, including content coordination, pricing, and listings.
+-Communicate effectively with U.S.-based customers, partners — including joining meeting calls and exchanging in English with the CEO and external teams.
+-Coordinate with internal teams to track and update inventory, analyze stock levels, and provide timely insights to the production team.
+-Track daily order volume and top-selling products to provide timely feedback to the production team.
+-Report on product trends and identify SKUs that require special attention or scaling opportunities.
+-Work directly with managers and cross-functional teams (Marketing, Customer Service, Production, Design...) to ensure effective coordination and execution.
+-Coordinate with the team to execute email marketing flows (via Active Campaign), including follow-ups, abandoned carts, welcome series, and campaign launches.
+-Develop strategic plans and execute upsell, cross-sell, and customer retention initiatives based on store data and customer behavior
+-Support seasonal sale activities (e.g., Black Friday, Christmas, July 4th...) with planning and execution on the brand’s website.
+-Use Shopify Analytics to monitor key performance metrics such as AOV, CTR, LTV, Retention Rate, and Conversion Rate; propose data-driven strategies to enhance customer experience and increase revenue.
+-Stay updated with trends, platform changes, and best practices in international e-commerce.","-Good English communication (spoken and written) – you will often exchange directly with the CEO, U.S. customers, and partners via video calls and email.
+-At least 1 year of experience in e-commerce, digital marketing, or online business operations.
+-Strong business sense and foundational knowledge in marketing, product, and customer behavior.
+-Must be a quick and adaptive learner – e-commerce is fast-paced and constantly evolving. You should be proactive in testing new approaches and making data-driven adjustments.
+-Demonstrated resilience, flexibility, and an ownership mindset.
+-Having prior experience with platforms such as Amazon, Etsy, Shopify, or Wayfair is a strong advantage.
+-Familiar with tools like Google Analytics, Shopify Analytics, or similar analytics tools. 
+-Strong organizational skills and attention to detail.
+-Base salary (negotiable depending on experience)
+-Performance bonus
+-Insurance and annual leave per company policy
+-Lunch allowance at the office
+-2-month probation with full training
+-Seniority-based salary increases
+-Annual company trip & performance-based incentives
+-Open, collaborative environment that values ownership and integrity",08/11/2025,"Tiếp Thị, Quảng Cáo/Truyền Thông > Tiếp Thị",Thương mại điện tử,1,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Thương Mại Điện Tử, Ecommerce Platforms, E-commerce, Digital Marketing, SEO",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Tiếp Thị, Quảng Cáo/Truyền Thông, Tiếp Thị, Thương mại điện tử, Thương Mại Điện Tử, Ecommerce Platforms, E-commerce, Digital Marketing, SEO, Công Ty TNHH A G Steel Manufacture, Hồ Chí Minh"
+Quản Lý Thiết Kế & Media (Design & Media Manager),Công Ty TNHH Phân Phối Phát Việt,"$ 1,200-1,400 /tháng","P501 – Tòa Nhà Viễn Đông – 36 Hoàng Cầu – Ô Chợ Dừa – Đống Đa, P501 – Tòa Nhà Viễn Đông – 36 Hoàng Cầu – Ô Chợ Dừa – Đống Đa – Hà Nội.","1.. Chiến lược & định hướng sáng tạo
+- Xây dựng định hướng thiết kế và phong cách hình ảnh cho thương hiệu (brand identity, visual concept, tone & mood).
+- Phát triển guideline nhận diện thương hiệu (logo, màu sắc, typography, bao bì, POSM, thiết kế không gian...).
+- Đề xuất và giám sát các ý tưởng sáng tạo cho chiến dịch marketing, TVC, digital, social media, và sự kiện.
+
+2. Quản lý & phát triển đội ngũ
+- Quản lý đội ngũ thiết kế (graphic, 3D, video editor, motion, photographer, stylist...).
+- Phân công công việc, đào tạo, đánh giá năng lực và truyền cảm hứng sáng tạo cho team.
+- Làm việc chặt chẽ với bộ phận Marketing, Trade, và Sản phẩm để đảm bảo tính thống nhất trong thông điệp.
+
+3. Thiết kế & giám sát sản xuất
+- Trực tiếp tham gia thiết kế hoặc phê duyệt các ấn phẩm quan trọng: bao bì sản phẩm, bộ nhận diện, visual campaign, ấn phẩm truyền thông.
+- Kiểm soát chất lượng đầu ra thiết kế và in ấn, đảm bảo tính thẩm mỹ và tiêu chuẩn cao cấp.
+- Làm việc với đối tác bên ngoài (agency, studio, in ấn, sản xuất video).
+
+4. Nghiên cứu & cập nhật xu hướng
+- Cập nhật các xu hướng thiết kế, màu sắc, thẩm mỹ cao cấp trong ngành mỹ phẩm & spa quốc tế.
+- Đề xuất các cải tiến sáng tạo giúp thương hiệu luôn mới mẻ, khác biệt và thu hút.","- Tốt nghiệp Đại học chuyên ngành Thiết kế đồ họa, Truyền thông đa phương tiện, Mỹ thuật công nghiệp hoặc liên quan.
+- Có ít nhất 5 năm kinh nghiệm thiết kế, trong đó 2 năm ở vị trí quản lý/team leader, ưu tiên lĩnh vực mỹ phẩm, làm đẹp, spa, thời trang, luxury brand.
+- Thành thạo các phần mềm: Adobe Photoshop, Illustrator, InDesign, After Effects, Premiere, 3D (là lợi thế).
+- Có gu thẩm mỹ tinh tế, hiện đại, sang trọng và hiểu sâu về ngôn ngữ hình ảnh trong ngành beauty/luxury.
+- Kỹ năng lãnh đạo, giao tiếp, quản lý thời gian và chịu áp lực cao.
+- Tư duy sáng tạo mạnh mẽ, chủ động, tỉ mỉ, cầu toàn với từng chi tiết thiết kế.",08/11/2025,Thiết Kế > Thiết Kế Đồ Họa,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,2,Cao đẳng,25-40,1,9:00 - 18:00,Trưởng phòng,"Giao Tiếp, Phân Tích Da, Quản Trị Đội Ngũ, Sáng Tạo, Thiết Kế Đồ Họa",Tiếng Việt,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Thiết Kế, Thiết Kế Đồ Họa, Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân, Giao Tiếp, Phân Tích Da, Quản Trị Đội Ngũ, Sáng Tạo, Thiết Kế Đồ Họa, Công Ty TNHH Phân Phối Phát Việt, Hà Nội"
+Electrical Design Engineer / Senior Engineer,CÔNG TY CỔ PHẦN CÔNG NGHIỆP GG,18tr-30tr ₫/tháng,"Nha may taị Khu cong nghịep so 5, xa Xuan Truc, Hưng Yen, Lô CN-01.4B, Khu Công nghiệp số 5, Xã Quảng Lãng, Huyện Ân Thi, Tỉnh Hưng Yên, Việt Nam","• Vị trí: Kỹ sư thiết kế điện/Trưởng nhóm
+• Địa điểm làm việc: Văn phòng tại KĐT Ecopark Hưng Yên (đến cuối năm), sau đó sẽ làm việc tại VP nhà máy, KCN Số 5, xã Xuân Trúc, Hưng Yên.
+• Có xe đưa đón từ Hà Nội
+• Báo cáo: Trưởng phòng Kỹ Thuật
+I. Mô tả công việc:
+1. Khảo sát hiện trường và lập báo cáo kỹ thuật cho các dự án triển khai hệ thống <ins>pin lưu trữ năng lượng (BESS) theo yêu cầu của công ty.
+2. Thiết kế bản vẽ concept design cho hệ thống điện và lưu trữ năng lượng.
+3. Phối hợp với nhà thầu để triển khai thi công hệ thống, giám sát kỹ thuật và đảm bảo đúng thiết kế.
+4. Thực hiện vẽ và triển khai các bản vẽ điện công nghiệp, bản vẽ thi công chi tiết<ins> trên AutoCAD hoặc phần mềm chuyên dụng.
+5. Đọc hiểu sơ đồ nguyên lý, phân tích và tính toán khối lượng vật tư từ bản vẽ để phục vụ mua sắm, dự toán.
+6. Phối hợp với các phòng ban và đối tác để đảm bảo tiến độ, chất lượng dự án.","• Tốt nghiệp Cao đẳng/Đại học chuyên ngành Kỹ thuật điện, Tự động hóa, Cơ điện tử<ins> hoặc các ngành liên quan.
+• Tối thiểu 3 năm kinh nghiệm làm việc trong lĩnh vực thiết kế và thi công hệ thống điện công nghiệp/Solar/BESS…
+• Thành thạo phần mềm AutoCAD và các phần mềm kỹ thuật điện khác.
+• Hiểu cơ bản sơ đồ nguyên lý điện, biết triển khai bản vẽ thi công chi tiết.
+• Có khả năng tính toán khối lượng vật tư từ bản vẽ.
+• Tinh thần trách nhiệm, làm việc nhóm tốt và sẵn sàng đi công tác khi cần.",08/11/2025,Khoa Học & Kỹ Thuật > Kỹ Thuật Điện/Điện Tử,Cơ khí/Máy móc/Thiết bị công nghiệp,3,Cử nhân,15-60,3,9:00 - 18:00,Nhân viên,"AutoCAD Electrical, Electrical Design, Electrical Engineer, Solar Energy",Bất kỳ,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Khoa Học & Kỹ Thuật, Kỹ Thuật Điện/Điện Tử, Cơ khí/Máy móc/Thiết bị công nghiệp, AutoCAD Electrical, Electrical Design, Electrical Engineer, Solar Energy, CÔNG TY CỔ PHẦN CÔNG NGHIỆP GG, Hưng Yên"
+Kỹ Sư Quy Trình Công Nghệ,Công Ty CP Tập Đoàn Đầu Tư Việt Phương,"Tới $ 1,400 /tháng","105 Chu Văn An, Hà Đông, Hà Nội, Tầng 6, Tòa nhà Samsora Premier, Chu Văn An, P. Yết Kiêu, Q. Hà Đông, TP. Hà Nội","1. Nghiên cứu và phát triển sản phẩm, công nghệ sản xuất
+- Phân tích và đánh giá các công nghệ, quy trình sản xuất hiện có tại các nhà máy khai thác và chế biến khoáng sản.
+- Đề xuất các giải pháp kỹ thuật, công nghệ và cải tiến quy trình nhằm nâng cao năng suất, chất lượng sản phẩm và giảm chi phí sản xuất.
+- Tham gia nghiên cứu, thử nghiệm và đánh giá các công nghệ sản xuất mới, nguyên liệu thay thế hoặc thiết bị tiên tiến phù hợp với đặc thù khoáng sản của Tập đoàn.
+- Cập nhật dữ liệu vòng đời sản phẩm và các thông số kỹ thuật phục vụ hoạt động quản lý sản phẩm.
+
+2. Đánh giá và triển khai công nghệ mới
+
+- Đánh giá khả năng ứng dụng các ý tưởng, công nghệ mới trong lĩnh vực khai thác – tuyển – chế biến khoáng sản.
+- Tham gia thử nghiệm, hiệu chỉnh và chuyển giao công nghệ cho các đơn vị sản xuất.
+- Theo dõi, tổng hợp kết quả thử nghiệm và đề xuất nhân rộng các mô hình, công nghệ hiệu quả.
+
+3. Quản trị rủi ro và hiệu quả kỹ thuật
+
+- Tham gia đánh giá rủi ro công nghệ – kỹ thuật trong các dự án đầu tư mới hoặc cải tạo dây chuyền sản xuất.
+- Đề xuất các phương án kỹ thuật dự phòng và giải pháp khắc phục rủi ro công nghệ.
+- Phối hợp với các bộ phận sản xuất, bảo trì, an toàn để đảm bảo vận hành ổn định và an toàn công nghệ.","1. Năng lực chuyên môn
+- Tốt nghiệp Đại học trở lên các ngành Kỹ thuật, Hóa công nghiệp, Công nghệ vật liệu, Cơ khí, Mỏ hoặc lĩnh vực liên quan.
+- Hiểu biết về công nghệ khai thác, tuyển khoáng, thủy luyện, nhiệt luyện.
+- Thành thạo đọc, hiểu và lập PFDs, P&IDs; có khả năng tính toán cân bằng vật chất và năng lượng.
+- Có kinh nghiệm vận hành hoặc triển khai thử nghiệm quy trình (pilot hoặc quy mô nhà máy).
+- Có kinh nghiệm tham gia các dự án đầu tư công nghệ hoặc tư vấn kỹ thuật là lợi thế.
+
+2. Kinh nghiệm
+- Tối thiểu 3 năm kinh nghiệm trong lĩnh vực nghiên cứu, phát triển hoặc cải tiến công nghệ, quy trình sản xuất (ưu tiên trong ngành chế biến khoáng sản).
+
+3. Kỹ năng
+- Kỹ năng nghiên cứu, phân tích và tổng hợp tốt.
+- Kỹ năng lập và trình bày báo cáo kỹ thuật rõ ràng, logic.
+- Khả năng phối hợp làm việc nhóm và làm việc với các đơn vị sản xuất trong hệ thống
+
+4. Có khả năng đi công tác (thực hiện pilot_",08/11/2025,Khoa Học & Kỹ Thuật > Khai Thác Mỏ,Khai khoáng/Dầu khí,3,Không giới hạn,Không hiển thị,1,,Nhân viên,"Process Design, Engineering Design, Engineering Chemical, Communication Skills, Equipment Measurement",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Khoa Học & Kỹ Thuật, Khai Thác Mỏ, Khai khoáng/Dầu khí, Process Design, Engineering Design, Engineering Chemical, Communication Skills, Equipment Measurement, Công Ty CP Tập Đoàn Đầu Tư Việt Phương, Hà Nội"
+Nhân Viên Kiểm Toán Nội Bộ Và Quản Lý Rủi Ro/ Internal Audit & Risk Executive,Công Ty TNHH TM DV Tân Hiệp Phát,Thương lượng,"219 Đại lộ Bình Dương, Lái Thiêu, Hồ Chí Minh (Thuận An, Bình Dương cũ), 219 Đại lộ Bình Dương, Phường Lái Thiêu, Thành phố Hồ Chí Minh, Việt Nam","1. Triển khai thực hiện và giám sát chương trình kiểm toán nội bộ nhằm đảm bảo các rủi ro về sai lệch số liệu sổ sách/ tài chính phải được nhận diện và ngăn ngừa.
+1.1 Thực hiện các phạm vi kiểm toán theo kế hoạch kiểm toán năm và các cuộc kiểm toán đột xuất được chỉ đạo từ cấp trên trực tiếp và theo chương trình kiểm toán được duyệt.
+1.2 Thu thập và soát xét các bằng chứng nhằm đảm bảo kết luận kiểm toán đều có đầy đủ bằng chứng. Đảm bảo tất cả các scope kiểm toán phụ trách được thực hiện đúng quy định và hiệu quả.
+1.3 Báo cáo tất cả các vấn đề chưa phù hợp, các sai lệch số liệu, thất thoát tài chính và các lỗ hổng trong hệ thống kiểm soát nội bộ (nếu có) được xác định trong quá trình kiểm toán.
+1.4 Theo dõi việc Thực hiện hành động khắc phục sau kiểm toán của các phòng ban
+2. Triển khai thực hiện các công việc theo yêu cầu của cấp trên trực tiếp trong việc yêu cầu các Khối/ phòng ban chức năng nhận diện và có kế hoạch diễn tập rủi ro nhằm không xảy ra khủng hoảng (Các Khối/ phòng ban chức năng là Chủ rủi ro, chịu trách nhiệm kiểm soát tất cả rủi ro của Khối/ phòng ban mình quản lý).
+2.1 Thực hiện các công việc theo chỉ đạo của cấp trên trực tiếp về việc yêu cầu các Khối/ Phòng ban chức năng nhận diện rủi ro và có biện pháp quản lý rủi ro nhằm giảm thiểu rủi ro cho tổ chức.
+2.2 Triển khai kiểm tra việc thực hiện các biện pháp quản lý rủi ro của các Khối/ Phòng ban chức năng.
+2.3 Thực hiện các công việc theo chỉ đạo của cấp trên trực tiếp về việc điều phối các Khối/ Phòng ban chức năng có rủi ro khủng hoảng (theo quyết định của Chủ tịch Hội đồng Quản lý kính doanh) trong việc các Khối/ Phòng ban chức năng này soạn thảo và thực hiện kế hoạch diễn tập rủi ro khủng hoảng để đảm bảo tính sẵn sàng và ứng phó kịp thời trong các tình huống khủng hoảng.
+2.4 Kiểm tra, giám sát và đánh giá việc thực hiện diễn tập rủi ro khủng hoảng của các Khối/ phòng ban chức năng.
+2.5 Báo cáo tất cả các vấn đề không tuân thủ, các lỗ hổng trong hệ thống kiểm soát nội bộ (nếu có) được xác định trong quá trình thực hiện .","- Đại học chuyên ngành Kế toán - Kiểm toán
+- Biết sử dụng SAP, Tableau, Power BI là lợi thế
+- Kỹ năng phân tích tổng hợp vượt trội
+- Tư duy phản biện để xác định và đánh giá vấn đề và giải quyết vấn đề
+- Có khả năng kiểm soát và hoàn thành công việc được giao
+- Thành thạo: Word, Excel, Power Point, Access
+- Giao tiếp tốt tiếng Anh IELTS 5.0, TOEIC 550 hoặc tương đương
+- Ít nhất 01 năm kinh nghiệm kiểm toán, quản lý rủi ro",08/11/2025,Kế Toán/Kiểm Toán > Kiểm Toán,Sản xuất,1,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,"Internal Audit, Risk Management, Kiểm Toán Nội Bộ, Quản Lý Rủi Ro, Data Analysis",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kế Toán/Kiểm Toán, Kiểm Toán, Sản xuất, Internal Audit, Risk Management, Kiểm Toán Nội Bộ, Quản Lý Rủi Ro, Data Analysis, Công Ty TNHH TM DV Tân Hiệp Phát, Hồ Chí Minh"
+Chuyên Viên Kinh Doanh (Lương Cứng Từ 20Tr; Thành thạo Tiếng Anh),Công Ty Kinh Doanh Bất Động Sản Viglacera,"$ 800-1,200 /tháng","Tầng 2, Toà nhà Viglacera, Số 1 Đại lộ Thăng Long, Mễ Trì, Từ Liêm, Hà Nội, Tầng 2, Toà nhà Viglacera, Số 1 Đại lộ Thăng Long, Mễ Trì, Từ Liêm, Hà Nội","Tìm kiếm và duy trì hệ thống khách hàng tiềm năng là các nhà đầu tư trong và ngoài nước có nhu cầu thuê đất Khu công nghiệp.
+Giới thiệu, tư vấn sản phẩm cho các nhà đầu tư.
+Quản lý và chăm sóc Khách hàng, hỗ trợ các thủ tục sau bán hàng.
+Tham gia hoạt động xúc tiến đầu tư tại thị trường nước ngoài.
+Các nhiệm vụ khác theo yêu cầu.","Tốt nghiệp Đại Học chuyên ngành Kinh tế, Quản trị kinh doanh, Marketing, Ngoại ngữ
+Ngoại ngữ: Thành thạo tiếng Anh (nghe, nói, đọc, viết)
+Kinh nghiệm kinh doanh từ 02 năm trở lên, ưu tiên ứng viên có kinh nghiệm trong lĩnh vực Bất động sản Khu công nghiệp
+Ưu tiên ứng viên có khả năng phân tích, đánh giá thị trường
+Có khả năng làm việc độc lập, kỹ năng giao tiếp, thuyết trình tốt
+Sử dụng thành thạo tin học văn phòng
+Sẵn sàng đi công tác",08/11/2025,Bất Động Sản > Phát Triển Bất Động Sản,Bất Động Sản/Cho thuê,Không yêu cầu,Không giới hạn,Không hiển thị,1,,Nhân viên,"IELTS 7.5+, sale B2B, Kinh Doanh, Biên Phiên Dịch",Bất kỳ,Người Việt Nam,Bất kỳ,Bất kỳ,,Toàn thời gian,"Bất Động Sản, Phát Triển Bất Động Sản, Bất Động Sản/Cho thuê, IELTS 7.5+, sale B2B, Kinh Doanh, Biên Phiên Dịch, Công Ty Kinh Doanh Bất Động Sản Viglacera, Hà Nội"
+Kế Toán Thuế,Trần Hồng Quân Holdings,Tới 18tr ₫/tháng,"Số 36, đường Lê Đức Thọ, phường Mỹ Đình 2, quận Nam Từ Liêm, thành phố Hà Nội, Việt Nam, Sheraton Hanoi West, Đường Lê Đức Thọ, Street, Mỹ Đình 2, Nam Từ Liêm, Hà Nội, Việt Nam","1. Mô tả công việc
+• Thực hiện kê khai, nộp và quyết toán các loại thuế (GTGT, TNDN, TNCN, thuế nhà thầu, phí, lệ phí khác) đúng quy định.
+• Theo dõi, kiểm tra chứng từ, hóa đơn, chi phí nhằm tối ưu nghĩa vụ thuế của doanh nghiệp trong hoạt động sản xuất luyện kim.
+• Tổng hợp và lập các báo cáo thuế định kỳ, báo cáo quyết toán thuế năm.
+• Phối hợp với các bộ phận liên quan và cơ quan thuế trong công tác kiểm tra, hoàn thuế hoặc quyết toán khi có yêu cầu.
+• Cập nhật và triển khai kịp thời các quy định, chính sách thuế mới.
+• Hạch toán và kiểm soát các nghiệp vụ kế toán phát sinh hàng ngày, hàng tháng.
+• Đối chiếu, tổng hợp và lập báo cáo tài chính, báo cáo quản trị theo yêu cầu của Ban Lãnh đạo.
+• Theo dõi công nợ, chi phí, tài sản, nguồn vốn và đảm bảo số liệu chính xác, nhất quán.
+• Hỗ trợ công tác kiểm toán nội bộ, kiểm toán độc lập.
+• Quản lý, lưu trữ hồ sơ kế toán, chứng từ khoa học và đúng quy định.","• Tốt nghiệp Đại học/Cao đẳng chuyên ngành Tài chính, Kế toán, Kiểm toán hoặc liên quan.
+• Có ít nhất từ 3 năm kinh nghiệm ở vị trí kế toán thuế (ưu tiên trong lĩnh vực sản xuất, luyện kim, công nghiệp nặng, dự án xây dựng ).
+• Nắm vững Luật thuế, chuẩn mực và chế độ kế toán Việt Nam.
+• Thành thạo phần mềm kế toán (MISA, Fast, SAP...) và tin học văn phòng.
+• Kỹ năng phân tích số liệu, tổng hợp báo cáo tốt.
+• Cẩn thận, trung thực, chịu được áp lực công việc.",08/11/2025,Kế Toán/Kiểm Toán > Kế Toán Thuế,Sản xuất,3,Cử nhân,25-45,1,08:00 - 17:00,Nhân viên,"Excel, Kế Toán Thuế, Kiểm Toán, Phần mềm kế toán, Phân Tích Số Liệu",Bất kỳ,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Kế Toán/Kiểm Toán, Kế Toán Thuế, Sản xuất, Excel, Kế Toán Thuế, Kiểm Toán, Phần mềm kế toán, Phân Tích Số Liệu, Trần Hồng Quân Holdings, Hà Nội"
+Training Management (All Level),Công Ty TNHH Hwaseung VINA,"$ 500-1,500 /tháng","Khu công nghiệp Nhơn Trạch 1, Nhơn Trạch, Đồng Nai, Ngã Tư Hàng Xanh, Phường 25, Bình Thạnh, Hồ Chí Minh, Nhon Trach I Industrial Zone, Phu Hoi town, Nhon Trach District, Dong Nai Province","* Responsibilities:
+
+• Thiết kế và trực tiếp đào tạo các chương trình huấn luyện đào tạo cho HSV và các chi nhánh theo yêu cầu/ Design and directly conduct training programs for the HSV and branches as requested
+
+• Phát triển tài liệu giảng dạy cho HSV và các chi nhánh theo yêu cầu/ Develop teaching materials for the HSV and branches as requested
+
+• Lập kế hoạch đào tạo theo năm, khóa dựa trên nhu cầu đào tạo HSV và các chi nhánh theo yêu cầu./ Plan annual training schedules and courses based on the training needs of the HSV and branches as requested
+
+• Thiết kế, đổi mới tất cả các khóa học: Develop & System/ Design and innovate all course: Develop & System
+
+• Xây dựng outline, nội dung bài giảng, phương pháp./ Build outlines, lecture content, and methods
+
+• Thiết lập đánh giá chất lượng đào tạo./ Establish training quality assessment
+
+• Cải tiến chu trình PDCA các khóa học/ Enhance the PDCA cycle for courses
+
+• Xây dựng quy trình khảo sát, đánh giá nhu cầu đào tạo/ Develop a process for surveying and assessing training needs
+
+• Đảm bảo chất lượng các chương trình đào tạo kỹ năng, đào tạo hội nhập tại HSV và các chi nhánh theo yêu cầu/ Ensure the quality of skill training programs and onboarding training at the HSV and branches as required
+
+• Theo dõi và đánh giá tiến độ triển khai các hoạt động đào tạo của team/ Monitor and evaluate the progress of training activities implementation by the team
+
+• Hướng dẫn, đào tạo nâng cao năng lực các thành viên phụ trách/ Guide and provide advanced training to enhance the capabilities of responsible team members
+
+• Lập kế hoạch và triển khai chương trình phát thanh nội bộ/ Plan and implement an internal broadcasting program
+
+• Khảo sát, đánh giá nhu cầu cải thiện môi trường làm việc tại HSV và các chi nhánh khi có yêu cầu/ Survey and assess the need for improvements in the working environment at HSV and its branches upon request.
+
+• Lập kế hoạch và triển khai các hoạt động cải thiện môi trường làm việc/ Develop and implement plans for activities to improve the working environment.
+
+• Phối hợp các bộ phận triển khai các hoạt động liên quan xây dựng môi trường làm việc/ Coordinate with departments to implement activities related to building the working environment.
+
+• Thiết kế nội dung, hình ảnh truyền thông nội bộ và mạng xã hội tuyên truyền về các hoạt động xây dựng môi trường làm việc tuyệt vời/ Design content and images for internal communication and social media to promote activities related to building an excellent working environment
+
+• Báo cáo kết quả các hoạt động GWP/ Report the results of GWP activities.
+
+Working at Nhon Trach 1 Industrial Park.
+Shuttle bus available: Ho Chi Minh, Bien Hoa, Ba Ria...","1. Education: Bachelor’s degree or higher, preferably in Human Resource Management, Education Management, or related fields.
+
+2. Experience: At least 2 years of experience in a supervisory role or equivalent in the field of training and workplace environment development.
+
+3. Skills:
+
+• Excellent communication and presentation skills.
+
+• Training skills, English Skill.
+
+• Leadership and team management skills.
+
+• Analytical and problem-solving skills.
+
+• Proficiency in office software (Microsoft Office, Canva, etc.).
+
+• Event organization skills are an advantage.
+
+4. Personal Attributes:
+
+• High sense of responsibility.
+
+• Meticulous, careful, and able to work under pressure.
+
+• Creative and proactive in work.",08/11/2025,Giáo Dục > Giảng Dạy/Đào Tạo,Dệt may/May mặc/Giày dép,2,Cao đẳng,Không hiển thị,5,,Nhân viên,"Training Program, Training Modules, Trainer Development",Tiếng Anh,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Giáo Dục, Giảng Dạy/Đào Tạo, Dệt may/May mặc/Giày dép, Training Program, Training Modules, Trainer Development, Công Ty TNHH Hwaseung VINA, Đồng Nai, Hồ Chí Minh"
+Recruitment Supervisor,CÔNG TY TNHH HWASEUNG VINA,Thương lượng,"Nhon Trach 1 Industrial Park, Nhon Trach District, Dong Nai Province, Ngã tư Hàng Xanh, Phường 25, Bình Thạnh, Hồ Chí Minh, Việt Nam, Nhon Trach I Industrial Zone, Phu Hoi town, Nhon Trach District, Dong Nai Province","Mô tả công việc:
+- Lên kế hoạch và tổ chức thực hiện các chương trình tuyển dụng số lượng lớn lao động phổ thông cho nhà máy.
+- Quản lý và điều phối đội ngũ tuyển dụng để đảm bảo đạt chỉ tiêu nhân lực theo kế hoạch sản xuất.
+- Xây dựng mối quan hệ tốt với các nguồn tuyển dụng bên ngoài như trung tâm giới thiệu việc làm, địa phương, trường nghề...
+- Thực hiện phỏng vấn, sàng lọc và đề xuất ứng viên phù hợp.
+- Là cầu nối liên lạc với ứng viên và các phòng ban liên quan trong suốt quá trình tuyển dụng.
+- Báo cáo, theo dõi chi phí và hiệu quả tuyển dụng định kỳ.
+- Thực hiện các nhiệm vụ khác theo sự phân công của cấp trên.
+Key Responsibilities:
+• Supervise and coordinate all recruitment activities for both white-collar and blue-collar positions, with a strong focus on production workforce.
+• Collaborate with department heads to understand manpower needs and define hiring requirements.
+• Develop effective recruitment strategies and sourcing plans to attract suitable candidates.
+• Manage relationships with external recruitment partners, job portals, training centers, and vocational schools.
+• Screen resumes, conduct initial interviews, and coordinate interview schedules with hiring managers.
+• Monitor and report on key recruitment metrics (time-to-fill, quality of hire, turnover rates).
+• Maintain and update candidate databases and recruitment tracking systems.
+• Participate in job fairs, career days, and military discharge recruitment programs.
+• Ensure all recruitment processes comply with company policies and labor laws.
+• Train and guide junior recruiters or HR staff when needed.","• College/University degree in Human Resources, Business Administration, or related fields.
+• At least 2 years of experience in a similar role, especially in large-scale manufacturing environments.
+• Strong communication, negotiation, and persuasion skills.
+• Proficient in English communication (both spoken and written).
+• Good time management and ability to work under high pressure.
+• Bachelor's degree in Human Resources, Business Administration, or related field.
+• At least 3–5 years of experience in recruitment, preferably in manufacturing or labor-intensive industries.
+• Strong knowledge of sourcing techniques, interview practices, and employment regulations.
+• Excellent interpersonal and communication skills.
+• Ability to work under pressure and meet tight deadlines.
+• Proficient in MS Office.",08/11/2025,Nhân Sự/Tuyển Dụng > Tuyển Dụng,Dệt may/May mặc/Giày dép,2,Cử nhân,Không hiển thị,1,07:30 - 16:30,Trưởng phòng,"Communication Skills, English Language Proficiency, Negotiation Skills, Recruitment Tools, Time Management",Tiếng Anh,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Nhân Sự/Tuyển Dụng, Tuyển Dụng, Dệt may/May mặc/Giày dép, Communication Skills, English Language Proficiency, Negotiation Skills, Recruitment Tools, Time Management, CÔNG TY TNHH HWASEUNG VINA, Đồng Nai, Hồ Chí Minh"
+Trưởng Ban Quản Lý Và Vận Hành KĐT (Head Of Urban Management And Operation),Công Ty Cổ Phần Tập Đoàn Danko,"$ 1,962-4,942 /tháng","Tổ 3, phường Chùa Hang, TP Thái Nguyên, Tầng 1, tòa C6, khối 2, KĐT Mỹ Đình 1, đường Trần Hữu Dực, quận Nam Từ Liêm, Hà Nội","• Quản lý và điều phối các hoạt động vận hành của các dự án đô thị của Tập đoàn DANKO.
+• Đảm bảo tuân thủ các quy định pháp luật liên quan đến quản lý đô thị.
+• Phát triển và thực hiện các chiến lược quản lý hiệu quả cho các khu đô thị.
+• Giám sát và đánh giá hiệu suất hoạt động của các dự án.
+• Làm việc chặt chẽ với các bộ phận khác để đảm bảo sự phối hợp hiệu quả.
+• Đề xuất các cải tiến và giải pháp để nâng cao chất lượng dịch vụ.
+• Tham gia vào các cuộc họp và báo cáo định kỳ về tình hình hoạt động của các dự án.","• Tối thiểu 10 năm kinh nghiệm trong lĩnh vực quản lý và vận hành đô thị.
+• Có kiến thức vững về luật pháp liên quan đến quản lý đô thị.
+• Kỹ năng lãnh đạo và quản lý đội ngũ tốt.
+• Khả năng phân tích và giải quyết vấn đề hiệu quả.
+• Kỹ năng giao tiếp và thuyết trình xuất sắc.
+• Có khả năng làm việc dưới áp lực và quản lý thời gian tốt.
+• Tốt nghiệp đại học chuyên ngành liên quan, ưu tiên ngành luật",08/11/2025,Kiến Trúc/Xây Dựng > Xây Dựng,Bất Động Sản/Cho thuê,10,Cử nhân,15-60,1,9:00 - 18:00,Giám Đốc và Cấp Cao Hơn,"Giải Quyết Vấn Đề, Giao Tiếp, Lãnh Đạo, Quản Lý, Thẩm Định Vấn Đề",Bất kỳ,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Kiến Trúc/Xây Dựng, Xây Dựng, Bất Động Sản/Cho thuê, Giải Quyết Vấn Đề, Giao Tiếp, Lãnh Đạo, Quản Lý, Thẩm Định Vấn Đề, Công Ty Cổ Phần Tập Đoàn Danko, Thái Nguyên"
+Trưởng Bộ Phận Ứng Dụng & Chuyển Đổi Số,Tập Đoàn Vàng Bạc Đá Quý DOJI,Thương lượng,"DOJI Tower, số 5, Lê Duẩn, Ba Đình, Hà Nội, Tòa nhà DOJI, Số 5 Lê Duẩn, Ba Đình, Hà Nội","- Quản lý dự án: Lập kế hoạch, triển khai và giám sát các dự án số như SAP, CRM, POS, BI, Data Lake, e-Commerce, Loyalty App... đảm bảo đúng tiến độ, ngân sách và hiệu quả.
+- Quản trị hệ thống lõi: Duy trì hoạt động ổn định, tích hợp xuyên suốt của SAP, POS, CRM; phối hợp các khối nghiệp vụ để tối ưu quy trình.
+- Đổi mới công nghệ: Nghiên cứu và thử nghiệm các giải pháp AI, ML, IoT, Blockchain; phát triển ứng dụng nội bộ và triển khai mô hình Omni-channel.
+- Quản trị dữ liệu: Thiết lập khung Data Governance; triển khai Data Lake, BI Dashboard giúp khai thác dữ liệu phục vụ ra quyết định kinh doanh.
+- Phát triển đội ngũ: Xây dựng, dẫn dắt và huấn luyện đội ngũ công nghệ (Data, BI, Dev, System Admin); hợp tác với đối tác công nghệ chiến lược.","- Tốt nghiệp chuyên ngành CNTT, có 5–7 năm kinh nghiệm triển khai hoặc quản lý dự án CNTT, ưu tiên lĩnh vực bán lẻ/tài chính/trang sức/luxury.
+- Hiểu biết sâu và có kinh nghiệm triển khai các hệ thống SAP (ERP), CRM, POS, tích hợp API, Data Lake, BI.
+- Kỹ năng lãnh đạo, quản trị dự án, tư duy chiến lược. ưu tiên có chứng chỉ PMP
+- Am hiểu Enterprise Architecture (EA), Kinh nghiệm triển khai API Gateway, ESB, tích hợp đa hệ thống.
+- Am hiểu xu hướng công nghệ: AI, Big Data, Blockchain, Cloud.
+- Kiến thức về Data Governance, Data Security, Compliance (GDPR, ISO 27001)
+- Nắm bắt xu hướng AI/ML, Blockchain (truy xuất nguồn gốc vàng/kim cương), IoT (smart showroom).
+- Ứng dụng Omni-channel & e-Commerce trong bán lẻ trang sức.
+- Thành thạo 1 trong các phương thức quản lý dự án Agile/Scrum, Waterfall, Hybrid.
+- Khả năng quản lý ngân sách, tiến độ, KPI.
+- Kinh nghiệm làm việc với các vendor lớn (SAP, Microsoft, Salesforce, FPT, CMC, …)
+- Có hiểu biết tốt về 1 trong các ngôn ngữ SQL, Java, C#, Javascript, API/REST...",08/11/2025,Công Nghệ Thông Tin/Viễn Thông > Chuyển Đổi Số,Bán lẻ/Bán sỉ,7,Cử nhân,35-45,1,08:30 - 17:30,Trưởng phòng,"Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Digital Transformation, Quản Trị Dự Án Phần Mềm, Technology Advisory, Tư Duy Chiến Lược",Bất kỳ,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T7,Toàn thời gian,"Công Nghệ Thông Tin/Viễn Thông, Chuyển Đổi Số, Bán lẻ/Bán sỉ, Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Chuyển đổi số, Digital Transformation, Quản Trị Dự Án Phần Mềm, Technology Advisory, Tư Duy Chiến Lược, Tập Đoàn Vàng Bạc Đá Quý DOJI, Hà Nội"
+Trưởng Phòng Kiểm Soát Nội Bộ,Tập Đoàn Đầu Tư Miền Nam,Thương lượng,"Số 035 Đường 41, KDC Vạn Phúc, Phường Hiệp Bình Phước, Tp. Thủ Đức, Tp. HCM, Số 35, Đường 41, KDC Vạn Phúc, Phường Hiệp Bình Phước, Thủ Đức","• Tổ chức, điều hành và giám sát toàn bộ hoạt động kiểm soát nội bộ trong Tập đoàn.
+• Xây dựng, cập nhật và triển khai hệ thống quy trình, quy định, chính sách kiểm soát rủi ro trong các lĩnh vực: tài chính, kế toán, mua hàng, bán hàng, nhân sự, vận hành.
+• Lập kế hoạch và thực hiện các cuộc kiểm tra, đánh giá định kỳ và đột xuất nhằm đảm bảo tuân thủ quy trình nội bộ và quy định pháp luật.
+• Phát hiện sai phạm, gian lận, rủi ro tiềm ẩn và đề xuất giải pháp khắc phục, cải tiến hệ thống kiểm soát.
+• Phối hợp với các phòng ban và đơn vị thành viên trong công tác kiểm soát tài chính, dòng tiền, tài sản và tuân thủ quy định.
+• Là đầu mối làm việc với kiểm toán độc lập, cơ quan thuế, ngân hàng và đối tác liên quan trong phạm vi kiểm soát nội bộ.
+• Tham mưu cho Ban Lãnh đạo về công tác quản trị rủi ro, đảm bảo hoạt động của Tập đoàn minh bạch, hiệu quả và bền vững.","• Tốt nghiệp Đại học trở lên chuyên ngành Kế toán, Kiểm toán, Tài chính, Quản trị rủi ro hoặc tương đương.
+• Có tối thiểu 5 năm kinh nghiệm trong lĩnh vực kiểm toán nội bộ/ kiểm toán độc lập, trong đó ít nhất 2 năm ở vị trí quản lý.
+• Ưu tiên ứng viên có kinh nghiệm trong tập đoàn đa ngành, phân phối – bán lẻ hoặc ô tô.
+• Am hiểu hệ thống kiểm soát nội bộ, pháp luật kế toán – thuế và chuẩn mực kiểm toán.
+• Kỹ năng lập kế hoạch, phân tích, đánh giá rủi ro và ra quyết định tốt.
+• Trung thực, độc lập, khách quan, có tinh thần trách nhiệm cao và kỹ năng giao tiếp tốt.",08/11/2025,Ngân Hàng & Dịch Vụ Tài Chính > Tuân Thủ & Kiểm Soát Rủi Ro,Tài Chính,5,Cử nhân,30-45,1,08:00 - 17:00,Trưởng phòng,"Kế Toán, Kiểm Toán, Kỹ năng giao tiếp, Kỹ năng giao tiếp, Quản Trị Rủi Ro, Tài Chính",Bất kỳ,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T7,Toàn thời gian,"Ngân Hàng & Dịch Vụ Tài Chính, Tuân Thủ & Kiểm Soát Rủi Ro, Tài Chính, Kế Toán, Kiểm Toán, Kỹ năng giao tiếp, Kỹ năng giao tiếp, Quản Trị Rủi Ro, Tài Chính, Tập Đoàn Đầu Tư Miền Nam, Hồ Chí Minh"
+Trưởng phòng Kinh doanh - Khu vực Hà Nội,CÔNG TY CỔ PHẦN HWA YOUNG BEAUTY,30tr-60tr ₫/tháng,"The ZEi Mỹ Đình, Đường Lê Đức Thọ, Mỹ Đình 1, 1, Nam Từ Liêm, Hà Nội, Việt Nam, Tầng 2, Tòa Diamond, The Matrix One, Số 1 Đường Lê Quang Đạo, Phường Từ Liêm, Thành phố Hà Nội, Việt Nam","I. Lập kế hoạch kinh doanh và triển khai các hoạt động vận hành để đạt được các mục tiêu kinh doanh của công ty
+1. Lập kế hoạch kinh doanh, phát triển trung tâm
+2. Triển khai các chiến lược kinh doanh, hoạt động kinh doanh của các trung tâm
+3. Giám sát và phát triển kinh doanh
+4. Kiểm soát hiệu quả kinh doanh
+
+II- Đảm bảo chất lượng vận hành tại trung tâm
+1. Quản lý nhân sự tại trung tâm
+2. Quản lý tài sản, nguyên vật liệu, trang thiết bị, tài chính tại trung tâm phụ trách
+3. Giải quyết các sự cố khiếu nại của khách hàng
+4. Giữ gìn, quảng bá, bảo vệ và phát triển thương hiệu hệ thống trung tâm
+5. Các nhiệm vụ khác","• Tốt nghiệp Đại học chuyên ngành Kinh tế, quản trị kinh doanh và các ngành liên quan
+• Có kiến thức tổng quan về lĩnh vực làm đẹp, thẩm mỹ viện.
+• Có ít nhất 2 năm kinh nghiệm trở lên quản lý kinh doanh.
+• Có kinh nghiệm thực tế về direct sales
+• Có kinh nghiệm liên kết đối tác
+
+Chế độ phúc lợi
+- Lương, thưởng tháng 13, Hot Bonus, Thưởng Doanh số, Thưởng lợi nhuận theo năm
+- BHXH, chế độ nghỉ phép, Du lịch năm
+- Thưởng Lễ, Tết, Trung thu, Thiếu nhi
+- Gói chăm sóc sức khỏe bản thân
+- Các chế độ phúc lợi khác của công ty.",08/11/2025,Kinh Doanh > Bán Hàng/Phát Triển Kinh Doanh,Dịch vụ Y tế/Chăm sóc sức khỏe,2,Cử nhân,25-40,1,9:00 - 18:00,Trưởng phòng,"Dịch Vụ Khách Hàng, Giao Tiếp, Phát Triển Nhân Viên, Quản Lý Kinh Doanh, Kinh Nghiệm Direct Sales",Bất kỳ,Người Việt Nam,Bất kỳ,Bất kỳ,T3 - CN,Toàn thời gian,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Dịch vụ Y tế/Chăm sóc sức khỏe, Dịch Vụ Khách Hàng, Giao Tiếp, Phát Triển Nhân Viên, Quản Lý Kinh Doanh, Kinh Nghiệm Direct Sales, CÔNG TY CỔ PHẦN HWA YOUNG BEAUTY, Hà Nội"
+Kế Toán Trưởng cho Doanh Nghiệp TMĐT & Bán Lẻ Đa Kênh,MTV ITS Company Limited,22tr-30tr ₫/tháng,"110 Hoa Lan, 110 Hoa Lan, Phường 7, Phú Nhuận, Hồ Chí Minh, Việt Nam","Công ty TNHH MTV ITS là đơn vị nhập khẩu và phân phối máy ảnh, phụ kiện máy ảnh và thiết bị chụp ảnh chính hãng tại Việt Nam. Trong gần 10 năm qua, chúng tôi vận hành hệ thống bán hàng đa kênh gồm chuỗi cửa hàng tại TP.HCM và Hà Nội, các sàn TMĐT (Shopee, Lazada, TikTok Shop) và website instaxtrasua.com.
+
+ITS hiện đang chuẩn hóa hệ thống tài chính – kế toán và chuyển đổi số toàn diện, hướng tới vận hành minh bạch, bền vững.
+
+
+⚙️ Mô tả công việc
+1️⃣ Quản lý hoạt động tài chính – kế toán
+• Tổ chức, kiểm soát toàn bộ hoạt động kế toán, thuế, báo cáo tài chính và báo cáo quản trị.
+• Quản lý luồng tiền (cashflow), công nợ, hàng tồn kho tài chính, giá vốn và chi phí hoạt động.
+• Kiểm soát doanh thu, chi phí và lợi nhuận theo từng kênh bán hàng (retail – eCommerce – wholesale).
+• Rà soát và phê duyệt báo cáo tài chính, báo cáo thuế, báo cáo quản trị định kỳ.
+2️⃣ Kiểm soát nội bộ & tuân thủ
+• Thiết lập, giám sát và cải tiến hệ thống kiểm soát nội bộ tài chính – kế toán.
+• Đảm bảo tuân thủ quy trình thu chi, hóa đơn, chứng từ, đối chiếu sổ sách.
+• Làm việc với cơ quan thuế, kiểm toán, ngân hàng, đối tác khi cần.
+3️⃣ Phát triển đội ngũ & hệ thống
+• Tuyển dụng, đào tạo và đánh giá hiệu suất đội ngũ kế toán (3–4 người).
+• Xây dựng KPI và quy chế lương thưởng nội bộ phòng kế toán.
+• Triển khai và vận hành phần mềm kế toán/ERP (MISA, KiotViet, Haravan, Metric.vn, LarkSuite).
+• Tham mưu cải tiến quy trình kế toán cho hoạt động thương mại điện tử, POS, logistics, COD, marketing, khuyến mãi.","• Tốt nghiệp đại học chuyên ngành Kế toán – Kiểm toán – Tài chính, có Chứng chỉ Kế Toán Trưởng (ưu tiên Bộ Tài Chính).
+• Tối thiểu 5 năm kinh nghiệm ở vị trí Kế Toán Trưởng hoặc Kế Toán Tổng Hợp cấp cao.
+• Ưu tiên ứng viên từng làm trong doanh nghiệp thương mại, bán lẻ/sỉ, eCommerce.
+• Hiểu sâu chuẩn mực kế toán, luật thuế, báo cáo quản trị.
+• Thành thạo MISA, Fast, Excel, có kinh nghiệm triển khai ERP là lợi thế.
+• Kỹ năng giao tiếp Tiếng Anh cơ bản, phối hợp liên phòng ban tốt; trung thực, cẩn trọng, chủ động cải tiến.
+• Độ tuổi ưu tiên: 9x – năng động, cầu tiến, có khả năng quản lý nhóm và dẫn dắt đội ngũ.",08/11/2025,Kế Toán/Kiểm Toán > Kế Toán Tài Chính,Bán lẻ/Bán sỉ,5,Cử nhân,25-35,1,08:00 - 17:00,Trưởng phòng,"Kế Toán, Misa, Tài Chính, Thương Mại Điện Tử, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản",Tiếng Việt,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Kế Toán/Kiểm Toán, Kế Toán Tài Chính, Bán lẻ/Bán sỉ, Kế Toán, Misa, Tài Chính, Thương Mại Điện Tử, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, Tiếng Anh cơ bản, MTV ITS Company Limited, Hồ Chí Minh"
+Kỹ Sư Dự Toán/qs,Công Ty CP Tập Đoàn Đầu Tư Việt Phương,Tới $ 800 /tháng,"105 Chu Văn An, Hà Đông, Hà Nội, Tầng 6, Tòa nhà Samsora Premier, Chu Văn An, P. Yết Kiêu, Q. Hà Đông, TP. Hà Nội","- Đọc và hiểu bản vẽ xây dựng, bóc tách khối lượng (công trình dân dụng, công trình thủy lợi/thủy điện BP thiết kế chủ trì)
+- Lập tổng mức đầu tư, tổng dự toán công trình thủy lợi, thủy điện và dân dụng công nghiệp
+- Thường xuyên cập nhật các Thông tư, Nghị định mới liên quan đến công tác lập dự toán
+- Thực hiện đúng quy định quản lý chất lượng sản phẩm tư vấn xây dựng của công ty
+- Tổ chức lưu trữ, bảo mật tất cả các hồ sơ tài liệu liên quan đến dự án","- Tốt nghiệp đại học chuyên ngành Kinh tế thủy lợi, Kinh tế xây dựng,…
+- Ưu tiên có kinh nghiệm lập dự toán công trình từ 2 năm trở lên
+- Sử dụng thành thạo các phần mềm: G8, Auto Cad, Office,…
+- Kỹ năng giao tiếp tốt, ra quyết định kịp thời và chính xác
+- Có khả năng đi công tác",08/11/2025,Kiến Trúc/Xây Dựng > Xây Dựng,Khai khoáng/Dầu khí,2,Cử nhân,Không hiển thị,1,,Nhân viên,"QS, Kinh Tế Xây Dựng, Dự Toán, Bóc Tách Khối Lượng, AutoCAD",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kiến Trúc/Xây Dựng, Xây Dựng, Khai khoáng/Dầu khí, QS, Kinh Tế Xây Dựng, Dự Toán, Bóc Tách Khối Lượng, AutoCAD, Công Ty CP Tập Đoàn Đầu Tư Việt Phương, Hà Nội"
+Giám Đốc Nhân Sự,Tập Đoàn Đầu Tư Miền Nam,Thương lượng,"Số 035 Đường 41, KDC Vạn Phúc, Phường Hiệp Bình Phước, Tp. Thủ Đức, Tp. HCM, Số 35, Đường 41, KDC Vạn Phúc, Phường Hiệp Bình Phước, Thủ Đức","Mô tả công việc:
+1. Công tác tham mưu:
+• Tham mưu Ban TGĐ về cơ cấu tổ chức, mô hình nhân sự và chiến lược phát triển nguồn lực.
+• Đề xuất, triển khai các chính sách, công cụ quản lý – đánh giá hiệu quả nhân sự.
+• Tham gia xây dựng, giám sát thực hiện quy chế, quy định HCNS.
+• Quản lý, điều hành toàn bộ hoạt động của bộ phận HCNS.
+2. Quản trị hành chính – nhân sự:
+• Xây dựng, triển khai và giám sát chính sách lương, thưởng, phúc lợi, chế độ đãi ngộ.
+• Kiểm soát công tác BHXH, thuế TNCN, kỷ luật, khiếu nại nhân sự.
+• Tổ chức, giám sát công tác hành chính: PCCC, môi trường, an toàn lao động...
+3. Hoạch định & phát triển nhân lực:
+• Lập kế hoạch và tổ chức đánh giá, phát triển nguồn nhân lực định kỳ.
+• Xây dựng, cập nhật cơ cấu tổ chức, định biên và mô tả công việc các phòng ban.
+4. Tuyển dụng & đào tạo:
+• Xây dựng kế hoạch nhân sự phù hợp mục tiêu kinh doanh.
+• Tổ chức, giám sát công tác tuyển dụng, đào tạo, phát triển và thăng tiến nhân viên.
+5. Pháp lý & quan hệ lao động:
+• Tư vấn, đảm bảo tuân thủ các quy định pháp luật liên quan đến hoạt động nhân sự.
+• Giám sát thực hiện chính sách lao động, giải quyết quan hệ lao động hợp pháp, hài hòa.","• Tốt nghiệp Đại học trở lên chuyên ngành Quản trị Nhân sự, QTKD, Luật,...
+• Có 5 năm kinh nghiệm ở vị trí tương đương.
+• Kỹ năng phân tích đánh giá/ tổng hợp/ giải quyết vấn đề/ ra quyết định.
+• Kỹ năng quản trị nhân sự, tố chức, sắp xếp, điều phối công việc, giải quyết xung đột.
+• Chịu được áp lực trong công việc.",08/11/2025,Nhân Sự/Tuyển Dụng > Nhân Sự Tổng Hợp,Giáo dục/Đào Tạo,5,Cử nhân,30-45,1,,Giám Đốc và Cấp Cao Hơn,"Gia Công Áp Lực, Giải Quyết Vấn Đề, Phân Tích Đánh Giá, Quản Trị Nhân Sự, Tổ Chức Thi Công",Bất kỳ,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T7,Toàn thời gian,"Nhân Sự/Tuyển Dụng, Nhân Sự Tổng Hợp, Giáo dục/Đào Tạo, Gia Công Áp Lực, Giải Quyết Vấn Đề, Phân Tích Đánh Giá, Quản Trị Nhân Sự, Tổ Chức Thi Công, Tập Đoàn Đầu Tư Miền Nam, Hồ Chí Minh"
+Trợ Lý Lãnh Đạo (Chỉ Tuyển Nam),TỔNG CÔNG TY CỔ PHẦN ĐỊA ỐC SÀI GÒN (SAIGONRES GROUP),20tr-24tr ₫/tháng,"70 Phố Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội, Việt Nam, Cao ốc 63-65 Điện Biên Phủ, Phường Gia Định, TP. Hồ Chí Minh","Chỉ nhận hồ sơ tiếng Việt.
+
+• Tham mưu cho Lãnh đạo trong các vấn đề pháp lý liên quan đến đầu tư, đất đai, xây dựng, quy hoạch, hợp đồng, thủ tục hành chính của dự án bất động sản.
+• Rà soát, tổng hợp và cập nhật hồ sơ pháp lý dự án; chuẩn bị tờ trình, báo cáo và tham mưu kịp thời cho Lãnh đạo.
+• Theo dõi và tổng hợp tiến độ kỹ thuật của dự án; phối hợp với các phòng ban, tư vấn, nhà thầu để nắm bắt tiến độ, khối lượng công việc và các vấn đề phát sinh; đề xuất phương án điều phối, điều chỉnh phù hợp.
+• Tổng hợp, phân tích và trình bày báo cáo phục vụ công tác điều hành của Lãnh đạo; chuẩn bị tài liệu, nội dung họp, văn bản, biên bản và báo cáo định kỳ.
+• Ứng dụng công nghệ số và công cụ AI (ChatGPT, phần mềm quản lý nội bộ...) trong công tác tổng hợp, báo cáo, lưu trữ và điều hành.
+• Thực hiện công việc với tác phong chuyên nghiệp, chủ động, linh hoạt và bảo mật thông tin tuyệt đối.","1. Trình độ: Tốt nghiệp Đại học chuyên ngành Luật, Kinh tế xây dựng, Quản lý dự án, Kiến trúc, Kỹ thuật xây dựng, Bất động sản hoặc các ngành có liên quan.
+
+2. Kinh nghiệm: Tối thiểu 02 năm kinh nghiệm ở vị trí tương đương trong lĩnh vực đầu tư, pháp lý hoặc điều hành dự án.
+
+3. Kiến thức:
+• Hiểu biết về pháp luật đầu tư, đất đai, xây dựng, quy hoạch, kinh doanh BĐS.
+• Nắm cơ bản quy trình kỹ thuật, tiến độ và tiêu chuẩn công trình.
+• Có kiến thức về tổng hợp – phân tích thông tin và ứng dụng công nghệ số trong quản lý, báo cáo.
+
+4. Kỹ năng:
+• Tổng hợp, soạn thảo, trình bày báo cáo; thành thạo MS Office và các công cụ công nghệ số (AI, phần mềm quản lý).
+• Giao tiếp, phối hợp, tổ chức, sắp xếp công việc hiệu quả.
+• Theo dõi, tổng hợp tiến độ, báo cáo định kỳ.
+
+5. Thái độ/ Tố chất:
+• Cẩn trọng, chủ động, chính trực, bảo mật thông tin.
+• Trách nhiệm, tỉ mỉ, hợp tác tốt.
+• Tác phong chuyên nghiệp, linh hoạt, cầu thị học hỏi.",08/11/2025,Pháp Lý > Thư Ký Luật & Trợ Lý Luật,Bất Động Sản/Cho thuê,2,Cử nhân,15-60,1,08:00 - 17:00,Nhân viên,"Giao Tiếp, Kinh Tế Xây Dựng, Kỹ năng phối hợp, Kỹ năng phối hợp, Luật, Quản Lý Dự Án",Tiếng Việt,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T7,Toàn thời gian,"Pháp Lý, Thư Ký Luật & Trợ Lý Luật, Bất Động Sản/Cho thuê, Giao Tiếp, Kinh Tế Xây Dựng, Kỹ năng phối hợp, Kỹ năng phối hợp, Luật, Quản Lý Dự Án, TỔNG CÔNG TY CỔ PHẦN ĐỊA ỐC SÀI GÒN (SAIGONRES GROUP), Hà Nội"
+Content Writer (English),The One Digi Corp,$ 350-500 /tháng,"40 Thiên Phước, Phường 9, Quận Tân Bình, Hồ Chí Minh, Việt Nam, Tân Bình, Hồ Chí Minh, Việt Nam","We are looking for Content Writers to help build our brand presence online. Your primary focus will be to create informative and SEO-optimized content for our website, including articles, guides, and other resources. Additionally, you may be tasked with generating creative content for our social media channels to help engage and grow our audience
+
+1/ Content Planning & Creation:
+- Work with other departments to develop content plans & timelines for assigned projects, ensuring alignment with company goals.
+- Conduct research and produce various types of content for the company website, including articles, news, updates, guides, FAQs and other resources.
+- Ensure all content is well-researched, accurate, and optimized with SEO best practices to drive organic traffic and enhance search visibility.
+- Create high-quality and engaging content as assigned.
+- Proofread and edit content thoroughly to uphold quality and accuracy standards throughout different platforms.
+
+2/ Social Media Content & Engagement
+- Create engaging social media content as needed, tailored to each platform to improve customers engagement and attract website visitors.
+- Build and grow the company’s social media presence, managing content schedules, campaigns, and community engagement to enhance brand visibility.
+- Propose new ideas, and adapt content to match the company’s voice across all platforms.
+
+3/ Content Optimization & Performance Tracking
+- Regularly update and edit, optimize content based on performance metrics to ensure high engagement and relevance.
+- Track content performance across platforms, analyze results, and provide recommendations for improvement.
+- Stay updated to industry trends and adjust content strategy accordingly to maintain relevancy.","- Education: Bachelor’s degree in Marketing, Communications, Journalism, English or a related field.
+- Experience: At least 1 year of experience as a Content Writer, Copywriter, or a similar role.
+
+Skills:
+- Excellent writing, editing, and proofreading skills, with the ability to produce high-quality content.
+- Fluent in both English and Vietnamese is a must
+- Familiarity with various social media platforms and website content management systems to pose and manage content effectively.
+- Proficiency in using marketing tools to effectively create and present content.
+- Familiarity with SEO principles and best practices for social media content.
+- Ability to research and simplify complex topics into clear, user-friendly content.
+- Experience with analytics tools (e.g., Google Analytics) to measure and optimize content performance.
+- Strong organizational skills, able to manage multiple projects and meet deadlines effectively.",08/11/2025,"Tiếp Thị, Quảng Cáo/Truyền Thông > Tiếp Thị Nội Dung",Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,English,Tiếng Anh,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Tiếp Thị, Quảng Cáo/Truyền Thông, Tiếp Thị Nội Dung, Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch, English, The One Digi Corp, Hồ Chí Minh"
