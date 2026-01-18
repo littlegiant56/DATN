@@ -1,0 +1,118 @@
+Title,Company,Location,Job Description,Job Requirements,Date Posted,Industry,Field,Experience,Education,Vacancy,Work Time,Level,Skills,Language,Nationality,Gender,Work Date,Work Type,Keyword,Industry1,Age Min,Age Max,salary_avg_vnd,salary_mins,salary_maxs
+Technical Sales Executive (Concrete),Saint-Gobain Vietnam,"29 Liễu Giai, Ngọc Khánh, Ba Đình, Hà Nội, Việt Nam, Capital Place 29 Lieu Giai, Ba Dinh, Ha Noi","1. Sales & Market Development
+
+- Identify, develop, and manage business opportunities with ready-mix concrete plants, contractors, and project owners.
+
+- Promote and sell concrete admixture products in assigned territory or projects.
+
+- Achieve sales targets and contribute to market share growth.
+
+- Monitor project pipelines and follow up on order execution.
+
+2. Technical Support & Solution Selling
+
+- Provide technical consultation on admixture selection, dosage, and application.
+
+- Coordinate with technical/lab teams to conduct product trials and site tests.
+
+- Support customers in resolving concrete quality or performance issues during production and construction.
+
+- Ensure proper product usage in compliance with technical standards.
+
+3. Customer Relationship Management:
+
+- Build long-term relationships with key customers and stakeholders.
+
+- Handle customer inquiries, feedback, and technical concerns in a timely manner.
+
+- Maintain customer satisfaction and support repeat business.
+
+4. Market Intelligence & Reporting
+
+- Collect and report market information, customer needs, and competitor activities.
+
+- Prepare regular sales reports, forecasts, and updates to Sales Manager.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Kinh Doanh,Vật liệu xây dựng,2,Không giới hạn,Không hiển thị,,Nhân viên,"Sales Engineering, Project sales, Construction Chemicals, Construction Material, Waterproofing",Bất kỳ,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kinh Doanh, Bán Hàng Kỹ Thuật, Vật liệu xây dựng, Sales Engineering, Project sales, Construction Chemicals, Construction Material, Waterproofing, Saint-Gobain Vietnam, Hà Nội",Bán Hàng Kỹ Thuật,0,100,,,
+CHUYÊN VIÊN PHÁT TRIỂN KINH DOANH - TRUNG TÂM KINH DOANH TIỀN TỆ - KHỐI THỊ TRƯỜNG TÀI CHÍNH,SACOMBANK – NGÂN HÀNG TMCP SÀI GÒN THƯƠNG TÍN,"266-268 Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, 266-268 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa, TP.Hồ Chí Minh","MÔ TẢ CÔNG VIỆC:
+TRÁCH NHIỆM CHÍNH
+1. Chịu trách nhiệm thực hiện các chỉ tiêu kinh doanh liên quan đến giải pháp tiền tệ và sản phẩm phái sinh.
+2. Phối kết hợp với KV/CN/PGD triển khai tiếp thị, thu thập hồ sơ, đề xuất cung ứng sản phẩm dịch vụ cho khách hàng và hệ sinh thái của khách hàng, xây dựng các giải pháp cấu trúc nhằm tối ưu hóa dòng tiền của khách hàng.
+3. Trực tiếp đào tạo nghiệp vụ, kỹ năng bán hàng, phát triển đội ngũ bán hàng tại CN/PGD.
+4. Xây dựng các chương trình Marketing kinh doanh: sản phẩm dịch vụ, chương trình khuyến mãi, quà tặng khách hàng…
+5. Thực hiện công tác báo cáo, phân tích số liệu kinh doanh và thị trường.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Kinh Doanh,Tài Chính,1,,,,Nhân viên,"Phân Tích Thị Trường, Kinh Doanh Tiền Tệ, Nghiệp Vụ Phái Sinh, Phân Tích Dòng Tiền, Tài Chính Tiền Tệ",Bất kỳ,Không giới hạn,,,,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Tài Chính, Phân Tích Thị Trường, Kinh Doanh Tiền Tệ, Nghiệp Vụ Phái Sinh, Phân Tích Dòng Tiền, Tài Chính Tiền Tệ, SACOMBANK – NGÂN HÀNG TMCP SÀI GÒN THƯƠNG TÍN, Hồ Chí Minh",Bán Hàng/Phát Triển Kinh Doanh,0,100,,,
+Senior Full-Stack Developer (AI Product),CÔNG TY CỔ PHẦN VIN SMART FUTURE,"7th Floor, Technopark Tower, Vinhomes Ocean Park 1, Gia Lam District, Hanoi, VinCom Đồng Khởi, TechnoPark Tower, Vinhomes Ocean Park, Đa Tốn, Gia Lâm, Hanoi, Việt Nam","Mô tả công việc
+• Phát triển và duy trì AI Platform: Thiết kế, xây dựng và tối ưu hóa các tính năng core của nền tảng AI, bao gồm multi-agent orchestration, RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol), và Agent-to-Agent communication, đảm bảo hiệu suất cao và khả năng mở rộng.
+• Kiến trúc hệ thống end-to-end: Chịu trách nhiệm thiết kế kiến trúc full-stack từ frontend (UI/UX cho AI workflows) đến backend (API, microservices, agent coordination), database design và integration với các LLM providers (OpenAI, Anthropic, etc.).
+• Triển khai RAG pipeline: Xây dựng và tối ưu hóa hệ thống RAG hoàn chỉnh bao gồm document processing, vector embedding, semantic search, context retrieval và prompt engineering để nâng cao chất lượng AI responses.
+• Phát triển Multi-Agent System: Thiết kế và implement logic điều phối nhiều AI agents, xử lý communication protocols, task delegation, conflict resolution và state management giữa các agents.
+• Tích hợp MCP và A2A protocols: Implement Model Context Protocol để quản lý context hiệu quả và xây dựng Agent-to-Agent communication framework cho phép các agents tương tác, chia sẻ thông tin và collaborate trong các workflows phức tạp.
+• Tối ưu hiệu suất và scalability: Monitor, profile và optimize performance của các AI workflows, xử lý concurrent requests, caching strategies, và đảm bảo platform có thể scale theo nhu cầu người dùng.
+• API development và integration: Thiết kế RESTful/GraphQL APIs, integrate với third-party services, vector databases (Pinecone, Weaviate, Qdrant), và các AI/ML tools ecosystem.",,2026-01-18,Công Nghệ Thông Tin/Viễn Thông,Phần Mềm CNTT/Dịch vụ Phần mềm,5,,,,Nhân viên,"Collaboration, Full Stack Development, Python Programming, RESTful API",Bất kỳ,Không giới hạn,,,,"Công Nghệ Thông Tin/Viễn Thông, Phần Mềm Máy Tính, Phần Mềm CNTT/Dịch vụ Phần mềm, Collaboration, Full Stack Development, Python Programming, RESTful API, CÔNG TY CỔ PHẦN VIN SMART FUTURE, Hà Nội, Hồ Chí Minh",Phần Mềm Máy Tính,0,100,,,
+Area Sales Supervisor (Binh Duong),Navigos Search,"Binh Duong, HCMC, HCMC","Job Purpose:
+Support and work closely with key Distributors to help them achieve sales targets and KPIs through strong in-market execution.
+
+Key Responsibilities:
+• Ensure Distributors meet sales targets and KPIs through their sales teams.
+• Work closely with Distributors to improve sales execution and productivity.
+• Analyze market performance and solve execution issues based on field reality.
+• Monitor stock at outlets and ensure orders are fulfilled on time.
+• Ensure product availability, visibility, and correct display at all points of sale.
+• Identify and manage key outlets in the assigned area.
+• Conduct daily market visits to supervise and coach Distributor sales teams.
+• Track coverage and expand distribution in the territory.
+• Support consumer and trade activation activities to boost sales.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Kinh Doanh,Hàng tiêu dùng,4,,,,Nhân viên,"Communication, Distributor System Management, Event Execution, Sales Management, Trade Marketing",Tiếng Anh,Người Việt Nam,,,,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Hàng tiêu dùng, Communication, Distributor System Management, Event Execution, Sales Management, Trade Marketing, Navigos Search, Bình Dương",Bán Hàng/Phát Triển Kinh Doanh,0,100,,,
+Area Sales Supervisor - Dong Nai,Navigos Search,"Biên Hòa, Đồng Nai, HCMC","Job Purpose:
+Support and work closely with key Distributors to help them achieve sales targets and KPIs through strong in-market execution.
+
+Key Responsibilities:
+• Ensure Distributors meet sales targets and KPIs through their sales teams.
+• Work closely with Distributors to improve sales execution and productivity.
+• Analyze market performance and solve execution issues based on field reality.
+• Monitor stock at outlets and ensure orders are fulfilled on time.
+• Ensure product availability, visibility, and correct display at all points of sale.
+• Identify and manage key outlets in the assigned area.
+• Conduct daily market visits to supervise and coach Distributor sales teams.
+• Track coverage and expand distribution in the territory.
+• Support consumer and trade activation activities to boost sales.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Kinh Doanh,Hàng tiêu dùng,4,Không giới hạn,1,08:00 - 17:00,Nhân viên,"Communication, Distributor System Management, Problem Solving, Sales Management, Trade Marketing",Tiếng Anh,Người Việt Nam,Bất kỳ,Thứ 2  đến Thứ 6,Toàn thời gian,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Hàng tiêu dùng, Communication, Distributor System Management, Problem Solving, Sales Management, Trade Marketing, Navigos Search, Đồng Nai",Bán Hàng/Phát Triển Kinh Doanh,25,35,,,
+Area Sales Supervisor - HCMC,Navigos Search,"Ho Chi Minh City, VN, 700000, HCMC","Job Purpose:
+Support and work closely with key Distributors to help them achieve sales targets and KPIs through strong in-market execution.
+
+Key Responsibilities:
+• Ensure Distributors meet sales targets and KPIs through their sales teams.
+• Work closely with Distributors to improve sales execution and productivity.
+• Analyze market performance and solve execution issues based on field reality.
+• Monitor stock at outlets and ensure orders are fulfilled on time.
+• Ensure product availability, visibility, and correct display at all points of sale.
+• Identify and manage key outlets in the assigned area.
+• Conduct daily market visits to supervise and coach Distributor sales teams.
+• Track coverage and expand distribution in the territory.
+• Support consumer and trade activation activities to boost sales.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Kinh Doanh,Hàng tiêu dùng,4,,,,Nhân viên,"Communication, Distributor System Management, Event Execution, Sales Management, Trade Marketing",Tiếng Anh,Người Việt Nam,,,,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Hàng tiêu dùng, Communication, Distributor System Management, Event Execution, Sales Management, Trade Marketing, Navigos Search, Hồ Chí Minh",Bán Hàng/Phát Triển Kinh Doanh,0,100,,,
+General Affair Staff (C&B),Navigos Search,"Bến Lức, Long An, HCMC","Mục tiêu công việc:
+Phụ trách công tác chấm công tính lương và thuế TNCN cho toàn bộ nhân viên công ty; quản lý hồ sơ, sổ sách nhân sự. Đồng thời đảm nhiệm các công việc hành chính – tổng vụ bao gồm quản lý văn phòng, book phòng họp, hỗ trợ tiếp khách, sắp xếp lịch làm việc và điều phối, book xe công ty, đảm bảo hoạt động vận hành nội bộ diễn ra thông suốt, tuân thủ quy định và phù hợp môi trường doanh nghiệp Nhật.
+
+Responsibilities:
+1. C&B – Chấm công & Tính lương
+• Quản lý và tổng hợp dữ liệu chấm công hàng tháng (giờ làm, OT, nghỉ phép, nghỉ lễ…).
+• Kiểm tra, đối soát dữ liệu chấm công với các bộ phận liên quan.
+• Thực hiện tính lương hàng tháng cho toàn bộ nhân viên.
+• Tính các khoản lương, phụ cấp, OT, thưởng/phạt và các khoản khấu trừ theo quy định.
+• Lập bảng lương chi tiết và bảng lương tổng hợp; phối hợp thực hiện thanh toán lương.
+• Giải đáp các thắc mắc của nhân viên liên quan đến chấm công và lương.
+
+2. Thuế TNCN (PIT)
+• Đăng ký mã số thuế TNCN cho nhân viên.
+• Đăng ký và quản lý người phụ thuộc.
+• Thực hiện tính thuế TNCN hàng tháng/quý.
+• Lập tờ khai PIT định kỳ và quyết toán thuế TNCN cuối.
+• Theo dõi, lưu trữ hồ sơ PIT và phối hợp với đơn vị tư vấn thuế/cơ quan thuế khi cần.
+
+3. Hồ sơ – sổ sách nhân sự
+• Quản lý hồ sơ nhân sự: hợp đồng lao động, phụ lục hợp đồng, quyết định lương.
+• Lưu trữ và cập nhật hồ sơ nhân sự (bản cứng và bản mềm).
+• Chuẩn bị hồ sơ, tài liệu liên quan khi có yêu cầu kiểm tra/đối soát nội bộ.
+
+4. Admin – Tổng vụ
+• Thực hiện các công việc hành chính – tổng vụ của văn phòng.
+• Quản lý văn phòng phẩm, vật tư tiêu hao và chi phí hành chính liên quan.
+• Book và chuẩn bị phòng họp; hỗ trợ công tác tiếp khách, đối tác.
+• Book lịch làm việc theo phân công.
+• Điều phối, book xe công ty; theo dõi lịch sử sử dụng và chi phí xe.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,2026-01-18,Nhân Sự/Tuyển Dụng,Sản xuất,3,Cử nhân,1,9:00 - 18:00,Nhân viên,"C&B, Excel, Human Resources Management, Payroll, Professional Communication",Bất kỳ,Người Việt Nam,Nữ,Thứ 2  đến Thứ 6,Toàn thời gian,"Nhân Sự/Tuyển Dụng, Nhân Sự Tổng Hợp, Sản xuất, C&B, Excel, Human Resources Management, Payroll, Professional Communication, Navigos Search, Long An",Nhân Sự Tổng Hợp,25,30,,,
