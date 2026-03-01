@@ -1,0 +1,320 @@
+Title,Company,Salary,Location,Job Description,Job Requirements,Date Posted,Industry,Field,Experience,Education,Age,Vacancy,Work Time,Level,Skills,Language,Nationality,Gender,Marital Status,Work Date,Work Type,Keyword
+Air Operation Staff,Công Ty TNHH HYUNDAI Glovis Việt Nam,Thương lượng,,,,,,,,,,,,,,,,,,,,
+Electrical Engineer (Chinese Speaking),Công Ty TNHH TUV Rheinland Vietnam.,Thương lượng,,,,,,,,,,,,,,,,,,,,
+Senior Operational Excellence Specialist,Công Ty Cổ Phần Dịch Vụ Giao Hàng Nhanh,"$ 1,200-1,400 /tháng","7/28 Đường Thành Thái, phường 14, Quận 10, Hồ Chí Minh","A. Cài Tiến Vận Hành (70%)
+- Theo dõi, phân tích và đánh giá các chỉ số vận hành cốt lõi (Lead Time, ODR, Năng suất, Chi phí, SLA, GTBTT, v.v.) thông qua báo cáo và dashboard dữ liệu.
+- Thực hiện phân tích nguyên nhân gốc rễ (Root Cause Analysis) dựa trên dữ liệu để xác định điểm nghẽn, lãng phí và rủi ro trong quy trình vận hành end-to-end.
+- Chủ động đề xuất các sáng kiến cải tiến quy trình dựa trên dữ liệu, benchmark thị trường.
+- Phối hợp và/hoặc dẫn dắt các dự án cải tiến liên phòng ban (Vận hành, Công nghệ, Vùng, v.v.).
+- Theo dõi hiệu quả sau triển khai, đảm bảo kết quả cải tiến có thể đo lường và duy trì bền vững.
+- Nhận diện sớm các rủi ro vận hành và đề xuất giải pháp phòng ngừa/kịp thời.
+- Đóng vai trò là đầu mối giải quyết các vấn đề vận hành phức tạp dựa trên dữ liệu và hệ thống
+Kết quả mong đợi:
+- Cải thiện rõ ràng các KPI vận hành so với baseline
+- Dự án cải tiến mang lại giá trị thực tế (hiệu suất, chi phí, chất lượng)
+- Quy trình vận hành ổn định, giảm xử lý thủ công và xử lý sự cố lặp lại
+B. Phân Tích Dữ Liệu và Tự Đông Hoá (30%)
+- Xây dựng, duy trì và cải tiến dashboard, báo cáo vận hành bằng các công cụ phân tích dữ liệu (Excel nâng cao, BI tools, SQL, v.v.).
+- Chuẩn hoá định nghĩa KPI, logic dữ liệu và hệ thống báo cáo, đảm bảo tính nhất quán.
+- Nhận diện và triển khai các cơ hội tự động hoá báo cáo, giám sát vận hành và workflow.
+- Ứng dụng AI / phân tích nâng cao trong vận hành như: Dự báo sản lượng. Phát hiện bất thường (anomaly detection). Nhận diện xu hướng, pattern vận hành. Hỗ trợ ra quyết định và tối ưu.
+- Phối hợp chặt chẽ với Khối Công nghệ/Data để: Chuyển hoá nhu cầu vận hành thành yêu cầu hệ thống & dữ liệu. Triển khai các giải pháp số, analytics, automation hiệu quả. Thúc đẩy văn hoá ra quyết định dựa trên dữ liệu trong khối Vận hành.
+Kết quả mong đợi:
+- Giảm đáng kể các thao tác thủ công
+- Ra quyết định nhanh hơn, chính xác hơn
+- Giải pháp OE có khả năng mở rộng nhờ dữ liệu và công nghệ",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Vận Tải > Vận Tải Đường Bộ,Chuỗi cung ứng,5,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"data driven, Operational Excellence, AI, Logistics Operations, Logic Database",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Vận Tải, Vận Tải Đường Bộ, Chuỗi cung ứng, data driven, Operational Excellence, AI, Logistics Operations, Logic Database, Công Ty Cổ Phần Dịch Vụ Giao Hàng Nhanh, Hồ Chí Minh"
+Trưởng Phòng Đào Tạo Thực Chiến,Capital House Group,Thương lượng,"Tòa nhà Ecolife, 58 Tố Hữu, Trung Văn, Hà Nội, Tầng 11-12 Tòa A3, EcoLife Capitol, 58 Tố Hữu, Nam Từ Liêm, Hà Nội","GIỚI THIỆU
+Hệ sinh thái Genesis ( https://genesiseco.vn ) là tổ chức theo triết lý Thuận tự nhiên & Văn hóa lấy Đạo làm người là nền tảng; hướng tới xây dựng một tổ chức xanh – nơi con người, hệ thống và chính sách vận hành hài hòa, tạo tác động tích cực cho xã hội và thiên nhiên.
+Genesis quy tụ những con người không chỉ giỏi chuyên môn, mà còn mang trong mình sứ mệnh cá nhân: dám nhìn lại, dám “lật lại” những mô thức cũ để kiến tạo những cách làm tử tế hơn, bền vững hơn, lấy giá trị dài hạn làm kim chỉ nam thay vì chạy theo kết quả ngắn hạn.
+
+Chúng tôi tìm kiếm chuyên gia kích hoạt năng lực tự học và tự vận hành.
+Người giúp cá nhân – phòng ban tự chịu trách nhiệm
+Người tạo cơ chế học tập nội sinh trong hệ sinh thái
+Không tạo ra phong trào; Mà tạo ra năng lực tự chủ thực sự trong công việc.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Nhân Sự/Tuyển Dụng, Đào Tạo Và Phát Triển, Giáo dục/Đào Tạo, Cải Tiến Chất Lượng, Dự Trù Năng Suất, Huấn Luyện, Ngoại Thần Kinh, Quản Trị Vận Hành, Capital House Group, Hà Nội"
+Trưởng phòng Quan Hệ Lao Động và C&B,Capital House Group,Thương lượng,"Tòa nhà Ecolife, 58 Tố Hữu, Trung Văn, Hà Nội, Tầng 11-12 Tòa A3, EcoLife Capitol, 58 Tố Hữu, Nam Từ Liêm, Hà Nội","GIỚI THIỆU
+
+Hệ sinh thái Genesis ( https://genesiseco.vn ) là tổ chức theo triết lý Thuận tự nhiên & Văn hóa lấy Đạo làm người là nền tảng; hướng tới xây dựng một tổ chức xanh – nơi con người, hệ thống và chính sách vận hành hài hòa, tạo tác động tích cực cho xã hội và thiên nhiên.
+Genesis quy tụ những con người không chỉ giỏi chuyên môn, mà còn mang trong mình sứ mệnh cá nhân: dám nhìn lại, dám “lật lại” những mô thức cũ để kiến tạo những cách làm tử tế hơn, bền vững hơn, lấy giá trị dài hạn làm kim chỉ nam thay vì chạy theo kết quả ngắn hạn.
+
+Chúng tôi tìm kiếm người giữ nhịp cân bằng giữa quyền lợi người lao động và chiến lược dài hạn của hệ sinh thái.
+Một người đủ nguyên tắc để bảo vệ chuẩn mực.
+Đủ công tâm để tạo niềm tin.
+Và đủ tầm nhìn để xây dựng hệ thống nhân sự bền vững.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Nhân Sự/Tuyển Dụng, Lương Thưởng & Phúc Lợi, Cung cấp nhân lực, Bảo Hiểm Xã Hội, Nhân sự (Luật lao động, luật Bảo hiểm), Pháp Luật Lao Động, Capital House Group, Hà Nội"
+"Senior Associate, Internal IT Audit (Integrated)",NAB Innovation Centre Vietnam,Thương lượng,"Tòa nhà The Hallmark, Số 15 Đường Trần Bạch Đằng, P. Thủ Thiêm, TP.Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam, Tòa nhà The Hallmark, Đường Trần Bạch Đằng, P. Phú Thuận, An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam","ROLE PURPOSE
+
+The Senior Associate, Integrated Auditor is responsible for delivering high-quality assurance over the bank’s technology controls, systems, and processes. This includes evaluating IT risks, testing general and application controls, and supporting the delivery of the NAB Vietnam annual audit plan in alignment with regulatory and Board expectations and NAB’s risk appetite.
+
+MAIN ACCOUNTABILITIES
+
+Conduct end-to-end audits of integrated processes (technology as well as Business), ITGCs, cybersecurity, cloud infrastructure, and application controls.
+Collaborate with business and technology stakeholders to assess control effectiveness and identify areas for improvement.
+Document audit findings, prepare reports, and present insights to senior leadership.
+Support the development of audit programs and risk assessments tailored to NAB’s evolving technology landscape.
+Participate in agile audit delivery and continuous monitoring activities.
+Fulfil other tasks as assigned by your People Leader and/or authorized representative of NAB Vietnam from time to time.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Kế Toán/Kiểm Toán > Kiểm Toán,Phần Mềm CNTT/Dịch vụ Phần mềm,Không hiển thị,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Risk Management, Cyber Security, Stakeholder Mangement, IT Audit, English",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kế Toán/Kiểm Toán, Kiểm Toán, Phần Mềm CNTT/Dịch vụ Phần mềm, Risk Management, Cyber Security, Stakeholder Mangement, IT Audit, English, NAB Innovation Centre Vietnam, Hồ Chí Minh"
+"Senior Associate, Internal Audit (Business)",NAB Innovation Centre Vietnam,Thương lượng,"Tòa nhà The Hallmark, Số 15 Đường Trần Bạch Đằng, P. Thủ Thiêm, TP.Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam, Tòa nhà The Hallmark, Đường Trần Bạch Đằng, P. Phú Thuận, An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam","ROLE PURPOSE
+
+The Senior Associate, Internal Audit will support the planning, execution, and reporting of audit activities as defined in the Audit Charter and the annual Audit Plan for NAB Vietnam. This role ensures robust risk management, internal control assessment, and compliance with regulatory and professional standards, contributing to the overall governance framework of the organization.
+
+MAIN ACCOUNTABILITIES
+
+Plan and execute internal audits within agreed timeframes and resource constraints, ensuring compliance with internal and regulatory standards.
+
+Deliver high-quality audit workpapers in the systems of record, ensuring proper documentation of walkthroughs, risk & control identification, control design assessments, and testing of control effectiveness.
+
+Communicate audit findings and recommendations clearly, ensuring they are risk-aligned and actionable for management.
+
+Efficient verification of audit raised issues within internal SLA targets once the business indicate issues are complete, supported by quality workpapers.
+
+Establish and maintain effective working relationships with business stakeholders to facilitate information gathering, issue validation, and resolution discussions.
+
+Provide timely feedback and coaching to audit team members, fostering a high-performance and continuous development culture.
+
+Actively contribute to internal audit transformation initiatives, including leveraging data analytics and artificial intelligence in audit execution.
+
+Proactively manage risk; meet all policy and compliance requirements; perform controls; adhere to Process and Procedures pertinent to role; and escalate events, issues or breaches as they are identified.
+
+Fulfil other tasks as assigned by your People Leader and/or authorized representative of NAB Vietnam from time to time.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Kế Toán/Kiểm Toán, Kiểm Toán, Phần Mềm CNTT/Dịch vụ Phần mềm, Audit, Stakeholder Mangement, Internal Audit, Risk Management, English, NAB Innovation Centre Vietnam, Hồ Chí Minh"
+Kế Toán Tổng Hợp,TẬP ĐOÀN HẢI SẢN HOÀNG GIA,Thương lượng,"954 Nguyễn Văn Linh, P. Tân Phong, Quận 7, TP HCM, 954 Nguyễn Văn Linh phường Tân phong quận 7","1. Tổ chức và kiểm soát công tác kế toán tổng hợp
+• Thu thập, kiểm tra và tổng hợp số liệu từ các phần hành: bán hàng, công nợ, kho, chi phí, ngân hàng.
+• Kiểm soát tính hợp lệ – hợp pháp của chứng từ kế toán theo quy định hiện hành.
+• Hạch toán doanh thu, giá vốn, chi phí, khấu hao, phân bổ và các nghiệp vụ kế toán phát sinh.
+• Thực hiện bút toán kết chuyển cuối kỳ, xác định kết quả kinh doanh.
+• Đảm bảo số liệu kế toán phản ánh trung thực và nhất quán giữa các bộ phận.
+2. Quản lý doanh thu – chi phí – giá vốn
+• Kiểm soát doanh thu bán sỉ theo từng nhóm khách hàng, kênh phân phối và sản phẩm.
+• Theo dõi và phân tích biến động giá vốn, tỷ suất lợi nhuận theo từng nhóm hàng hải sản.
+• Kiểm soát chi phí vận hành: kho lạnh, logistics, hao hụt, bảo quản.
+• Phối hợp với bộ phận Kinh doanh và Vận hành để xác định nguyên nhân biến động lợi nhuận.
+• Cảnh báo kịp thời các yếu tố làm ảnh hưởng đến biên lợi nhuận.
+3. Quản lý công nợ và dòng tiền
+• Theo dõi và đối soát công nợ khách hàng B2B (HORECA, chuỗi F&B, khách sạn, catering…).
+• Kiểm soát hạn mức tín dụng, thời hạn thanh toán.
+• Phối hợp với bộ phận Kinh doanh trong việc thu hồi công nợ.
+• Đối chiếu số dư ngân hàng, quỹ tiền mặt và các khoản phải thu – phải trả.
+• Báo cáo tình hình dòng tiền định kỳ, đề xuất phương án kiểm soát rủi ro.
+4. Báo cáo tài chính và báo cáo quản trị
+• Lập báo cáo tài chính tháng/quý/năm theo chuẩn mực kế toán Việt Nam.
+• Lập báo cáo quản trị nội bộ: doanh thu – lợi nhuận theo sản phẩm, theo khách hàng, theo khu vực.
+• Phân tích số liệu tài chính để hỗ trợ Ban lãnh đạo ra quyết định.
+• Chuẩn bị hồ sơ, tài liệu phục vụ kiểm toán nội bộ/độc lập (nếu có).
+• Thực hiện báo cáo thuế định kỳ (VAT, TNDN, TNCN…) theo quy định pháp luật.
+5. Kiểm soát tuân thủ & quản trị rủi ro
+• Đảm bảo tuân thủ quy định về thuế, kế toán và tài chính.
+• Kiểm tra tính hợp lệ của hợp đồng, hóa đơn, chính sách chiết khấu.
+• Tham gia xây dựng quy trình kiểm soát nội bộ liên quan đến doanh thu – công nợ – hàng tồn kho.
+• Phát hiện và cảnh báo rủi ro tài chính, sai sót kế toán.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Kế Toán/Kiểm Toán, Kế Toán Tài Chính, Dịch vụ Y tế/Chăm sóc sức khỏe, Giao Tiếp, Kế Toán Tổng Hợp, Kiểm Soát Chi Phí, Phân Tích Tài Chính, Quản Lý Công Nợ, TẬP ĐOÀN HẢI SẢN HOÀNG GIA, Hồ Chí Minh"
+Trưởng Ban Quyết Toán - Hệ sinh thái Genesis,Capital House Group,Thương lượng,"Tòa nhà Ecolife, 58 Tố Hữu, Trung Văn, Hà Nội, Tầng 11-12 Tòa A3, EcoLife Capitol, 58 Tố Hữu, Nam Từ Liêm, Hà Nội","GIỚI THIỆU
+Hệ sinh thái Genesis ( https://genesiseco.vn ) là tổ chức theo triết lý Thuận tự nhiên & Văn hóa lấy Đạo làm người là nền tảng; hướng tới xây dựng một tổ chức xanh – nơi con người, hệ thống và chính sách vận hành hài hòa, tạo tác động tích cực cho xã hội và thiên nhiên.
+Genesis quy tụ những con người không chỉ giỏi chuyên môn, mà còn mang trong mình sứ mệnh cá nhân: dám nhìn lại, dám “lật lại” những mô thức cũ để kiến tạo những cách làm tử tế hơn, bền vững hơn, lấy giá trị dài hạn làm kim chỉ nam thay vì chạy theo kết quả ngắn hạn.
+
+Hệ sinh thái Genesis tìm kiếm Trưởng Ban Quyết toán – chuyên gia trực tiếp thực hiện dịch vụ quyết toán, đồng hành cùng nhiều doanh nghiệp theo nhiều mảng (Nông nghiệp/Bất động sản/Tài chính - Đầu tư....); với tinh thần dịch vụ vì Khách hàng.
+
+VAI TRÒ VỊ TRÍ
+• Giúp cho doanh nghiệp/dự án, Nhà đầu tư bằng việc khớp nối với kế
+hoạch – hoạch định ban đầu đúng cam kết hệ sinh thái và pháp luật.
+• Đảm bảo quản trị rủi ro về thị trường, pháp lý, chất lượng và thực hiện
+đúng quy định pháp luật và chính sách thuế hiện hành.
+• Thực hiện dịch vụ quyết toán đầy đủ, chính xác, minh bạch.
+• Đồng hành chuẩn hóa dữ liệu tài chính theo định hướng phát triển bền vững.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Kế Toán/Kiểm Toán > Kế Toán Tài Chính,Khác,Không hiển thị,Không giới hạn,Không hiển thị,1,08:30 - 17:30,Giám Đốc và Cấp Cao Hơn,"Kiểm Toán, Quyết Toán Dự Án, Quyết Toán Hồ Sơ, Thuế Tài Chính",Bất kỳ,Không giới hạn,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Kế Toán/Kiểm Toán, Kế Toán Tài Chính, Khác, Kiểm Toán, Quyết Toán Dự Án, Quyết Toán Hồ Sơ, Thuế Tài Chính, Capital House Group, Hà Nội"
+Giám Đốc Huy Động Vốn Đầu Tư,Capital House Group,Thương lượng,,,,,,,,,,,,,,,,,,,,"Ngân Hàng & Dịch Vụ Tài Chính, Đầu Tư Tài Chính, Tài Chính, Huy Động Vốn, Tài Chính Bất Động Sản, Đầu Tư, Capital House Group, Hà Nội"
+EHS Supervisor,Công Ty TNHH C-Hawk Technology Việt Nam,Thương lượng,"Phú Tân, Thành phố Thủ Dầu Một, Bình Dương, Việt Nam, Khu công nghiệp Phú Tân, Phường Bình Dương, TP. HCM","Key Responsibilities
+
+1. Regulatory Compliance and Management Systems
+
+Vietnamese Legal Compliance: Ensure the facility's full compliance with key Vietnamese EHS legal documents.
+Permitting & Reporting: Manage and maintain all required operational permits, including the Environmental License (Giấy phép Môi trường), fire prevention certification (Giấy chứng nhận phòng cháy, chữa cháy), and licenses for hazardous activities.
+Government Liaison: Act as the primary point of contact for local regulatory bodies such as the Department of Natural Resources and Environment (Sở Tài nguyên và Môi trường - DONRE) and the Department of Labour, Invalids and Social Affairs (Sở Lao động – Thương binh và Xã hội - DOLISA).
+Management Systems: Develop, implement, and maintain EHS management systems, preferably aligned with ISO 45001 and ISO 14001 standards.
+
+2. Occupational Safety and Health (OSH)
+
+Risk Assessment: Conduct comprehensive Job Safety Analyses (JSA) and Risk Assessments to identify hazards related to machinery, electricity (in line with Circular 05/2021/TT-BCT on electrical safety), working at heights, and material handling.
+Training and Certification: Manage and deliver mandatory OSH training for employees and contractors (per Decree 44/2016/NĐ-CP) for all required groups, ensuring proper documentation and certification is maintained.
+Industrial Hygiene: Oversee work environment monitoring (Quan trắc môi trường lao động) as required by law (e.g., noise, dust, chemical exposure) and implement control measures to protect worker health.
+Fire Safety (PCCC): Ensure all fire prevention and fighting regulations are strictly adhered to, including regular maintenance of equipment and conducting mandatory drills.
+
+3. Environmental Management
+
+Waste Management: Oversee the proper classification, collection, storage, and disposal of all waste streams, especially Hazardous Waste (Chất thải nguy hại), ensuring compliance with manifest and transport regulations.
+Wastewater/Emissions: Monitor the performance of the Wastewater Treatment System and/or Air Pollution Control equipment to ensure discharge/emissions meet the required QCVN standards.
+Chemical Safety: Implement and manage chemical safety programs, including inventory control, proper labeling (GHS/Circular 04/2012/TT-BCT), and handling/storage procedures.
+
+4. Incident Management and Continuous Improvement
+
+Incident Investigation: Lead Accident and Incident Investigations, including near-misses, and ensure timely reporting to DOLISA for workplace accidents in accordance with Vietnamese OSH Law.
+EHS Metrics: Track, analyze, and report key EHS performance indicators (KPIs) to drive continuous improvement (Kaizen) and support global reporting requirements.
+Contractor Safety: Implement and enforce a robust Contractor Safety Management program to ensure external parties comply with site and legal EHS requirements.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Khoa Học & Kỹ Thuật > Điện/Nước/Chất Thải,Điện/Điện tử,3,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,"HSE Management, Giám Sát HSE, An Toàn Sức Khỏe Môi Trường, HSE, An Toàn Lao Động",Tiếng Anh,Người Việt Nam,Bất kỳ,Không hiển thị,,Toàn thời gian,"Khoa Học & Kỹ Thuật, Điện/Nước/Chất Thải, Điện/Điện tử, HSE Management, Giám Sát HSE, An Toàn Sức Khỏe Môi Trường, HSE, An Toàn Lao Động, Công Ty TNHH C-Hawk Technology Việt Nam, Bình Dương"
+Tuyển Dụng Đầu Bếp - (Làm Việc Tại Nước Ngoài - Mozambique) - Mức Lương Từ 1.500 Usd/tháng,Movitel S.A,"Từ $ 1,400 /tháng",,,,,,,,,,,,,,,,,,,,"Dịch Vụ Ăn Uống, Đầu Bếp, Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch, Trung thực, Trách nhiệm, Cẩn Thận, Movitel S.A, Quốc tế"
+Accounting - Tax Consultant (HCM Office) - 1 Position - At Least 1-Year Experienced,"SCS Global Consulting Vietnam Co., Ltd.",Thương lượng,"436 Nguyễn Thị Minh Khai, phường Bàn Cờ, Thành phố Hồ Chí Minh, Việt Nam, Tầng 11, tòa nhà Sài Gòn Giải Phóng, số 436 - 438 đường Nguyễn Thị Minh Khai, P.5, Q.3, TP.HCM","- Input accounting transactions of clients in accounting software (work on-site when necessarily);
+- Support clients in documents filing for management and tax purpose;
+- Prepare monthly & annual Financial statements;
+- Calculation and preparation of monthly/quarterly/annual tax returns (Value-added tax – VAT,Personal income tax – PIT; Corporate income Tax – CIT; Foreign contractor tax – FCT;and other taxes (if required);
+- Provide accounting, tax, and legal advisory;
+- Prepare monthly payroll for clients, including PIT (both Vietnamese and expats), compulsory insurance;
+- Support clients in documents submission to authorities (tax returns, insurance registration documents, etc.); in liaise with authorities when necessarily;
+- Support clients in external independent audit (annually) and tax audit (if any);
+- Assist line manager in occasional jobs (tax due diligence, transfer pricing, financial due diligence, etc.);
+- Carry out other ad-hoc duties upon managers’ requirements.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Kế Toán/Kiểm Toán, Kế Toán Thuế, Kế toán/Kiểm toán, Tax Consulting, Accounting Standards, Tax Accounting, English, Accounting System, SCS Global Consulting Vietnam Co., Ltd., Hồ Chí Minh"
+Technical Service Executive (Cement),Công Ty TNHH Công Nghiệp Vĩnh Tường Miền Bắc Việt Nam,Thương lượng,"Tháp 1, Tầng 17, Capital Place, 29 Liễu Giai, Quận Ba Đình, Hà Nội, Thôn Vĩnh Bảo xã Vĩnh Khúc huyện Văn Giang tỉnh Hưng Yên","1. Technical Support: Providing an expert technical support to customers, contractors and applicators directly at construction sites. Managing and resolving complex technical challenges in the field.
+
+2. Technical consultant: Collaborate with sales team, R&D team, customers to develop and optimize concrete mix design tailored to specific customers’ requirements and local materials, new replacement material in the market. Technical .consultation, adjustment admixture and support effective customers in batching plant, precast and mega projects, …
+
+3. Customer complaint: Investigating customer problems, complaint and product performance issues promptly and efficiently.
+
+4. Site support: Supporting the sales team by conducting product sampling, demonstrations, and trial at lab and customer sites. Providing the technical knowledge needed to follow up on projects and specification.
+
+5. Technical training/knowledge:
+- Organizing and conducting professional product, standards presentations, seminars, and hands-on training session for customer, applicators and internal teams
+- Staying updated on local market trends, construction standards and competitor’s activities",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Khoa Học & Kỹ Thuật > Kỹ Thuật Hóa Học,Vật liệu xây dựng,1,Không giới hạn,Không hiển thị,Không hiển thị,,Nhân viên,"Waterproofing, Construction Chemicals, Construction Material, Technical Advising",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Khoa Học & Kỹ Thuật, Kỹ Thuật Hóa Học, Vật liệu xây dựng, Waterproofing, Construction Chemicals, Construction Material, Technical Advising, Công Ty TNHH Công Nghiệp Vĩnh Tường Miền Bắc Việt Nam, Hà Nội"
+Chuyên Viên Kinh Doanh Thị Trường Khung Trần Vĩnh Tường,Saint-Gobain Việt Nam,Thương lượng,"Kiên Giang, Việt Nam, Sofic Tower, 10 Mai Chí Thọ, Thủ Thiêm, Thủ Đức, HCM","Cần tuyển nhân viên kinh doanh thị trường phụ trách sản phẩm khung trần Vĩnh Tường + tấm xi măng Dura Flex tại Kiên Giang.
+Xác định, phát triển và theo dõi các nhà phân phối, đại lý của công ty, bao gồm những khách hàng hiện tại và tiềm năng tại thị trường phụ trách
+Lập kế hoạch bán hàng và khảo sát nhu cầu, thị hiếu của khách hàng từ đó mở rộng mạng lưới khách hàng.
+Đàm phán và thiết lập quan hệ khách hàng đảm bảo chỉ tiêu doanh số.
+Đảm bảo đáp ứng kịp thời những yêu cầu, phản hồi và ý kiến khách hàng.
+Quản lý tài khoản khách hàng và doanh thu.
+Chăm sóc khách hàng: Cung cấp giá bán đúng chính sách, các thông tin về sản phẩm nhằm mục đích đạt chỉ tiêu doanh số đề ra.
+Nắm bắt thông tin về thị trường, cập nhật thông tin, xu hướng khách hàng về sản phẩm của Công ty và đối thủ cạnh tranh, cập nhật báo cáo hàng tháng, hàng quý.
+Làm báo cáo tuần về thị trường và tình hình kinh doanh",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Kinh Doanh > Bán Hàng/Phát Triển Kinh Doanh,Vật liệu xây dựng,Không yêu cầu,Không giới hạn,Không hiển thị,1,,Nhân viên,"Bán Hàng, Kinh Doanh Khu Vực, Bán Hàng Phân Phối, Chăm Sóc Khách Hàng, Phát Triển Thị Trường",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Kinh Doanh, Bán Hàng/Phát Triển Kinh Doanh, Vật liệu xây dựng, Bán Hàng, Kinh Doanh Khu Vực, Bán Hàng Phân Phối, Chăm Sóc Khách Hàng, Phát Triển Thị Trường, Saint-Gobain Việt Nam, Kiên Giang"
+Air Cargo Operations Assistant Manager - SGN,ECS Group,Từ $ 900 /tháng,"SCSC, Đường Phan Thúc Duyện, Phường 4, Tân Bình, Ho Chi Minh City, Vietnam, Tòa nhà SCSC, 30 Phan Thúc Duyện, Phường Tân Sơn Nhất, Hồ Chí Minh, Việt Nam","We’re Hiring: Air Cargo Operations Assistant Manager
+Are you passionate about the aviation cargo industry? Do you have strong connections in the air freight market and a drive to deliver results? Join our team and be part of a dynamic organization in the fast-growing air cargo sector!
+
+Location: Ho Chi Minh
+Company: Globe Air Cargo Vietnam of ECS Group, GSSA of Turkish Airlines Cargo
+
+
+About us
+Globe Air Cargo Vietnam is a subsidiary of ECS Group, global leader in GSSA industry with more than 180 offices located in 59 countries.
+
+We are a leading air cargo service provider representing global airlines in Vietnam. Our mission is to deliver reliable, efficient, and customer-focused cargo solutions. To strengthen our team, we are looking for a motivated Air Cargo Sales Senior Executive to join our growing operations department.
+
+
+About the Role
+We are looking for a dynamic and experienced Air Cargo Operations Assistant Manager to support and oversee daily cargo handling, operations coordination, and service performance. The role ensures smooth and efficient cargo movements, compliance with airline and regulatory standards, and continuous process improvements to enhance operational quality and cost efficiency.
+
+Key Responsibilities:
+• Supervise and support daily cargo operations, including export, import, and transshipment & SPA activities.
+• Coordinate with airlines, ground handling agents, customs, and freight forwarders for efficient cargo flow.
+• Monitor flight operations, cargo build-up, and documentation accuracy.
+• Ensure full compliance with safety, security, and IATA operational standards.
+• Handle irregular operations (offloads, damages, delays) and provide effective resolutions.
+• Support capacity planning, space control, and cargo acceptance processes.
+• Prepare and analyze operational reports, KPI performance, and service quality data.
+• Assist in cost control, process improvement, and vendor performance evaluation.
+• Supervise and train operation staff; ensure strong teamwork and productivity.
+• Support management in implementing operational strategies and airline policies.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Vận Tải, Dịch Vụ Hàng Không, Hậu cần/Giao nhận, Cargo Handling, Communication Skills, Iata Regulations, Logistics, Transportation, ECS Group, Hồ Chí Minh"
+Trưởng Phòng Hiệu Suất và Kiểm Soát Rủi Ro Vận Hành,Ngân Hàng TNHH MTV Kỷ Nguyên Thịnh Vượng - GPBank,"$ 15,000-20,000 /tháng","19 Bà Triệu, Phường Cửa Nam, TP Hà Nội, Số 19 Bà Triệu, P. Cửa Nam, TP. Hà Nội","Mô tả công việc
+1. Mảng Quản lý Quy trình
+Xây dựng và đề xuất kế hoạch hoạt động Quản lý và Xây dựng Quy trình, kế hoạch ngân sách và kiểm soát hoạt động trong ngân sách được duyệt.
+Xây dựng kế hoạch công việc cụ thể, kế hoạch phát triển cá nhân cho nhân viên, KPIs, đánh giá nhân sự, đào tạo phát triển nhân sự cho Phòng.
+
+2. Mảng CX (Trải nghiệm khách hàng)
+Xây dựng Chương trình nâng cao trải nghiệm khách hàng hàng năm trên cơ sở định hướng chiến lược của CXC và kế hoạch hành động của các Khối/Đơn vị trên toàn hàng;
+Nghiên cứu, cập nhật các xu hướng về trải nghiệm khách hàng trên thế giới và trong ngành tài chính, ngân hàng; đánh giá khả năng áp dụng tại GPBank và đề xuất với Ban lãnh đạo để triển khai
+Tổ chức triển khai (bao gồm: xây dựng chương trình, lên kế hoạch triển khai, điều phối các nguồn lực cần thiết, xử lý các vấn đề phát sinh trong quá trình triển khai, trao đổi/truyền thông với các đơn vị liên quan, báo cáo định kỳ Ban lãnh đạo ...) các hoạt động Nâng cao trải nghiệm Khách hàng.
+Giám sát hiệu quả (giám sát kết quả triển khai, kết quả sản phẩm...) các hoạt động Nâng cao trải nghiệm Khách hàng.
+
+3. Mảng Hỗ trợ vận hành
+Xây dựng và đề xuất kế hoạch hoạt động Hỗ trợ Vận hành, kế hoạch ngân sách và kiểm soát hoạt động trong ngân sách được duyệt.
+Xây dựng kế hoạch công việc cụ thể, kế hoạch phát triển cá nhân cho nhân viên",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Ngân Hàng & Dịch Vụ Tài Chính > Dịch Vụ Hỗ Trợ Khách Hàng,Ngân hàng,Không hiển thị,Cử nhân,Không hiển thị,Không hiển thị,,Trưởng phòng,"Quản Lý Trải Nghiệm Khách Hàng, Quản Lý Quy Trình, Vận Hành",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Ngân Hàng & Dịch Vụ Tài Chính, Dịch Vụ Hỗ Trợ Khách Hàng, Ngân hàng, Quản Lý Trải Nghiệm Khách Hàng, Quản Lý Quy Trình, Vận Hành, Ngân Hàng TNHH MTV Kỷ Nguyên Thịnh Vượng - GPBank, Hà Nội"
+BD Specialist,"CJ Logistics Viet Nam Co.,Ltd",Thương lượng,,,,,,,,,,,,,,,,,,,,
+SENIOR TRADE MARKETING MANAGER (GT – Nationwide),Navigos Search,Thương lượng,HCMC,"Role Purpose
+Drive sustainable growth for the Nationwide General Trade (GT) channel by developing and executing effective trade marketing strategies aligned with brand and commercial objectives. Act as a key business partner to Sales and Marketing teams to strengthen distribution, visibility and consumer demand across regions.
+
+Key Responsibilities
+• Lead the development and execution of trade marketing strategies and annual plans for the Nationwide GT channel.
+• Identify growth opportunities through category, channel and shopper insights, translating them into actionable trade initiatives.
+• Develop and deploy nationwide trade programs including distribution expansion, assortment optimization, merchandising excellence and visibility initiatives.
+• Customize brand campaigns into effective trade programs and POSM to maximize in-store execution and offtake performance.
+• Lead planning and execution of consumer promotions and activation programs to drive sustainable demand within GT channel.
+• Manage trade and promotion budgets, ensuring effective allocation, cost control and ROI tracking.
+• Establish clear execution standards and ensure consistent implementation aligned with Route-to-Market and store segmentation strategies.
+• Partner closely with Sales teams nationwide to support distribution targets, coverage expansion and sales performance.
+• Collaborate cross-functionally with Marketing, Finance, Supply Chain, Logistics and other stakeholders to ensure smooth deployment and stock readiness.
+• Monitor, analyze and report GT performance, providing insights and recommendations to optimize channel effectiveness and business results.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,"Tiếp Thị, Quảng Cáo/Truyền Thông > Tiếp Thị",Bán lẻ/Bán sỉ,6,Cử nhân,30-45,1,9:00 - 18:00,Trưởng phòng,"Analytical Thinking, Brand Marketing, Brand Marketing, Consumer Marketing, Retail Marketing, Trade Marketing",Tiếng Anh,Người Việt Nam,Bất kỳ,Bất kỳ,T2 - T6,Toàn thời gian,"Tiếp Thị, Quảng Cáo/Truyền Thông, Tiếp Thị, Bán lẻ/Bán sỉ, Analytical Thinking, Brand Marketing, Brand Marketing, Consumer Marketing, Retail Marketing, Trade Marketing, Navigos Search, Hồ Chí Minh"
+Manufacturing Excellences Manager,Coherent Vietnam,"$ 2,500-3,000 /tháng","36 VSIP, Street No. 4, Vietnam – Singapore Industrial Park, Binh Hoa Ward, Ho Chi Minh City, Vietnam, Đường Trần Phú, KCN Nhơn Trạch I, Xã Nhơn Trạch, Tỉnh Đồng Nai.","Company Overview:
+Coherent Corp. is a global leaders in datacenter and communications industries. Headquartered in Saxonburg, Pennsylvania, USA, and founded in 1971, Coherent operates in over 20 countries worldwide. Since entering Vietnam in 2005, Coherent has expanded to over 2,400 employees across Binh Duong (VSIP1), Dong Nai (Nhon Trach 1), Hanoi, and Bac Ninh (Yen Phong IP). As part of our global growth strategy and commitment to local talent development, we aim to create over 4,000 new job opportunities in Vietnam within the next five years.
+Business Title: Manufacturing Excellences Manager
+
+Work Location: VSIP 1 - BÌNH DƯƠNG
+
+BASIC FUNCTION OF THE JOB:
+- Lead Automation Programs (35%), reducing manual dependency and increasing productivity;
+- Drive Innovation and Digitalization (35%) to strengthen data visibility and technology adoption;
+- Enhance Industrial Engineering (20%) through improved process flow, layout efficiency, and cycle-time optimization;
+- Provide Project Management (10%) for structured cross-functional execution.
+
+Automation Development
+• Develop and execute the automation roadmap from manual to full automation.
+• Drive automation across grinding, polishing, coating, inspection, and material handling.
+• Assess processes and build ROI-based automation proposals.
+• Co-develop scalable automation solutions with Engineering & Production.
+• Lead end-to-end automation projects from concept to stabilization.
+• Manage integrators and vendors to ensure safety, quality, and operational fit.
+• Track post-deployment performance to deliver productivity and quality gains.
+Innovation, Digitalization & Industry 4.0
+• Build and execute a manufacturing digitalization strategy aligned with Coherent global.
+• Introduce and scale technologies such as: MES / traceability systems, Real-time production dashboards, Automated data collection, AI-based inspection or process monitoring, Predictive maintenance for key optics equipment.
+• Pilot new digital/automation solutions and scale successful initiatives.
+Production Industrial Engineering
+• Optimize manual, semi-automated, and automated processes to improve productivity, quality, and repeatability.
+• Maintain Standard Work, time studies, line balancing, and capacity models for stable operations and scaling.
+• Analyze production data to identify bottlenecks and improve cycle time, yield, layout, and material flow.
+• Support FMEA, root-cause analysis, and corrective actions using 5 Why, RCA, and DMAIC.
+• Work cross-functionally with Production, Quality, Engineering, and Automation to ensure stable pilot builds, smooth ramp-up, and consistent output.
+Project Management
+• Lead strategic projects across Automation, CI, and Digitalization.
+• Define project scope, charter, timelines, resources, and budgets.
+• Coordinate cross-functional teams including Production, Quality, Engineering, Maintenance, and IT.
+• Track milestones, risks, deliverables, and provide executive updates.
+• Ensure projects meet intended performance outcomes and are delivered on time.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Sản Xuất, Phân Tích Sản Xuất, Sản xuất, Continuous Improvement, Automation, Operational Excellence, Project Management, Electrical Engineer, Coherent Vietnam, Hồ Chí Minh"
+IT Manager,Spartronics Vietnam,Thương lượng,"KCN Nam Tân Uyên, Khánh Bình, Tân Uyên, Bình Dương, Việt Nam, Lot A, Nam Tan Uyen Industrial Park, Tan Hiep Ward, Ho Chi Minh City","A. PURPOSE OF THIS POSITION/ MỤC ĐÍCH CỦA VỊ TRÍ:
+Spartronics Viet Nam is seeking a IT Manager is responsible for leading IT infrastructure, ERP/MES system management, cybersecurity, automation solutions, and digital transformation initiatives within the factory. This role ensures system stability, data integrity, and IT service availability to support production, quality, planning, and business operations efficiently.
+
+B. PRIMARY RESPONSIBILITIES/ CÔNG VIỆC CHÍNH:
+1. IT Infrastructure & System Administration
+• Manage and maintain factory-wide network, servers, data center, Wi-Fi, firewall, backup systems.
+• Ensure high uptime for IT systems supporting production & office operations.
+• Oversee hardware & software lifecycle: configuration, license management, upgrades.
+2. ERP/MES/MRP System Management
+• Own and support ERP (SAP/Oracle/D365 or equivalent) and MES for production operations.
+• Lead system troubleshooting, issue resolution, and user support for all functions.
+• Coordinate with vendors for customization, integration and enhancement requests.
+• Ensure data accuracy and transactional discipline across departments.
+3. Industry 4.0 Digital Transformation
+• Plan and execute automation & digital roadmap for the factory.
+• Drive integration among SMT machines, AOI, ICT, MES, ERP and quality monitoring tools.
+• Implement dashboards for real-time productivity, WIP, OEE, yield, quality performance.
+4. Cybersecurity & IT Compliance
+• Establish security controls, firewall rules, system access authorization.
+• Ensure compliance with corporate IT policy, data privacy and backup policy.
+• Conduct periodic network security audits and risk assessments.
+5. Cross-functional Support
+• Partner with Operations, Quality, Planning, Finance to optimize system-driven workflow.
+• Manage IT helpdesk team to provide timely support and service resolution.
+• Provide IT training and system knowledge to end users.
+6. Vendor & Budget Management
+• Manage IT projects, vendor contracts and SLA performance.
+• Prepare and control annual IT budget (hardware/software/renewal).
+• Evaluate investment for automation, licensing, and future upgrades.
+7. Leadership & People Development
+• Lead IT Engineers, System Admins, Infrastructure Support team.
+• Build IT capability, succession plan, performance goals & training roadmap.
+• Foster proactive, customer-service mindset and continuous improvement culture.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,Công Nghệ Thông Tin/Viễn Thông > Bảo Mật Công Nghệ Thông Tin,Điện/Điện tử,5,Cử nhân,Không hiển thị,Không hiển thị,,Trưởng phòng,"IT Infrastructure, Proficiency In Office It Systems, ERP MES, MRP Systems, ERP Dynamic 365",Tiếng Anh,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Công Nghệ Thông Tin/Viễn Thông, Bảo Mật Công Nghệ Thông Tin, Điện/Điện tử, IT Infrastructure, Proficiency In Office It Systems, ERP MES, MRP Systems, ERP Dynamic 365, Spartronics Vietnam, Bình Dương"
+Driver Operations Associate (Nhân Viên Vận Hành Tài Xế),Lalamove Viet Nam,8tr-10tr ₫/tháng,"No. 10, Pho Quang Street, Ward 2, Tan Binh District, HCMC, 10/F, Tower C, Waseco Building, 10 Pho Quang Street, Tan Son Hoa Ward, HCMC, Vietnam","• 80% công việc: Vận hành & Tuân thủ
+• Hướng dẫn Đối tác Tài xế: Trực tiếp hướng dẫn các đối tác tài xế về quy trình vận hành thông qua các cuộc gọi điện thoại nhằm đảm bảo quá trình chuyển đổi diễn ra thuận lợi và xuyên suốt.
+• Xác thực Dữ liệu & Tuân thủ: Đảm bảo thông tin tài xế và tài khoản đăng ký khớp với hồ sơ trên hệ thống; tuân thủ nghiêm ngặt các quy trình vận hành, chính sách công ty và các quy định pháp luật liên quan.
+• 20% công việc: Hiệu suất & Tối ưu hóa Quy trình
+• Theo dõi & Phân tích Chỉ số: Theo dõi và phân tích các chỉ số đo lường hiệu suất chính (KPIs) để xác định và giải quyết các vấn đề vận hành một cách hiệu quả, từ đó thúc đẩy việc cải tiến liên tục.
+• Cải thiện Quy trình: Nhận diện các cơ hội và thực hiện cải tiến quy trình nhằm nâng cao hiệu suất cho các tác vụ vận hành hàng ngày.
+• Khác: Thực hiện các công việc/dự án đặc biệt theo yêu cầu của Quản lý trực tiếp.
+
+Thời gian làm việc: Thứ Hai đến Thứ Sáu (9:00 sáng đến 6:00 chiều) và Thứ Bảy (9:00 sáng đến 1:00 chiều)",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,,,,,,,,,,,,,,,,,"Dịch Vụ Khách Hàng, Dịch Vụ Khách Hàng, Hậu cần/Giao nhận, Kỹ năng giao tiếp, Kỹ năng giao tiếp, Microsoft Office, Quản Lý Chỉ Số KPI, Tư Duy Hệ Thống, Lalamove Viet Nam, Hồ Chí Minh"
+Chuyên Viên Cao Cấp Marketing Dự Án Bất Động Sản,BIM Group,Thương lượng,"Tòa nhà Hà Nội Aqua Central, 44 Yên Phụ, Phường Trúc Bạch, Quận Ba Đình, TP Hà Nội, Tòa nhà Hà Nội Aqua Central, 44 Yên Phụ, Phường Trúc Bạch, Quận Ba Đình, TP Hà Nội","- Thu thập, nghiên cứu, phân tích về thị trường, thông tin dự án, đối thủ cạnh tranh các sản phẩm Bất động sản
+- Phối hợp với các bộ phận liên quan và agency phát triển tư liệu hình ảnh dự án (ảnh 3D, video, sa bàn)
+- Phối hợp với các bộ phận liên quan thiết kế, sản xuất các tài liệu bán hàng phục vụ cho việc giới thiệu các dự án bất động sản (Product Sheet, Leaflet, Brochure, Hàng rào, Biển bảng, Apps...)
+- Phối hợp với Trưởng phòng Marketing để xây dựng kế hoạch truyền thông, marketing tích hợp nhằm thúc đẩy thương hiệu dự án và hỗ trợ bán hàng
+- Phối hợp với các bộ phận khác hoặc agency nhằm triển khai thực hiện kế hoạch truyền thông marketing tích hợp, đảm bảo tiến độ, hiệu quả trong ngân sách cho phép
+- Đánh giá, đo lường và điều chỉnh công việc để có hiệu quả tối ưu.
+- Đề xuất các sáng kiến, các thay đổi phù hợp theo tình hình triển khai thực tế để mang lại hiệu quả tối ưu cho kế hoạch marketing từng giai đoạn.
+- Thực hiện nghiệm thu, tổng hợp đánh giá về kế hoạch marketing đã triển khai.",Mức độ phù hợp và xếp hạng của bạn so với ứng viên khác như thế nào?,01/03/2026,"Tiếp Thị, Quảng Cáo/Truyền Thông > Nghiên Cứu & Phân Tích Thị Trường",Truyền thông/Báo chí/Quảng cáo,4,Cử nhân,Không hiển thị,Không hiển thị,,Nhân viên,"Real Estale Marketing, Marketing & Brand Building, Phát Triển Thương Hiệu, Tiếng Anh",Bất kỳ,Không hiển thị,Không hiển thị,Không hiển thị,,Toàn thời gian,"Tiếp Thị, Quảng Cáo/Truyền Thông, Nghiên Cứu & Phân Tích Thị Trường, Truyền thông/Báo chí/Quảng cáo, Real Estale Marketing, Marketing & Brand Building, Phát Triển Thương Hiệu, Tiếng Anh, BIM Group, Hà Nội"
